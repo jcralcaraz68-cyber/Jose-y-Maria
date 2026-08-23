@@ -353,13 +353,21 @@
     "camino": {
       "1": {
         "ejercicio": "Principio y Fundamento.\nLa primera parte del Principio y Fundamento de San Ignacio nos invita a descubrir que nuestra vida no es fruto del azar: Dios nos está creando continuamente y sosteniendo en cada instante por amor. Todo lo que somos y tenemos es un regalo suyo, y reconocerlo nos lleva a vivir desde la gratitud, no solo cuando sufrimos o perdemos algo. Dios no nos necesita, pero nos crea porque nos ama y nos llama a vivir unidos a Él; por eso nos invita a alabarle, hacerle reverencia y servirle, no para satisfacer una necesidad suya, sino porque esa relación con Él es nuestro verdadero bien. La pregunta profunda es si estamos viviendo nuestra vida desde esta conciencia: ¿reconozco que Dios me está dando la vida ahora mismo?, ¿busco descubrir su presencia en lo cotidiano?, ¿estoy poniendo toda mi vida al servicio de Dios y de los demás? El Principio y Fundamento nos recuerda que el sentido de nuestra existencia no está en nosotros mismos, sino en recibir el amor de Dios, responder a ese amor y vivir unidos a Él.",
-        "evangelio": "Mc 8,36\n«Porque ¿Qué aprovechará al hombre si ganare todo el mundo, y perdiere su alma?»"
+        "evangelio": "Mc 8,36\n«Porque ¿Qué aprovechará al hombre si ganare todo el mundo, y perdiere su alma?»",
+        "objetivo": "Descubrir que la vida tiene un sentido que va más allá de tener, hacer o aparentar.\nReflexión: \nLos Padres de la Iglesia nos recuerdan que la vida no encuentra su sentido último en lo que tenemos, hacemos o mostramos, sino en aquello para lo que hemos sido creados: vivir unidos a Dios. San Agustín expresa esta búsqueda diciendo que nuestro corazón permanece inquieto hasta descansar en Dios. San Ireneo, por su parte, nos recuerda que la verdadera vida del ser humano consiste en vivir en comunión con Dios. Desde esta mirada, tener más, hacer más o aparentar más nunca puede llenar del todo el corazón. El verdadero sentido aparece cuando descubrimos que somos amados por Dios, que nuestra vida es un don y que estamos llamados a amar, servir y entregar nuestra vida. No se trata tanto de preguntarnos “¿qué tengo?” o “¿qué consigo?”, sino “¿para quién estoy viviendo?” y “¿en qué estoy convirtiendo mi vida?”"
       }
     },
     "vivamos": {},
     "fuerza": {}
   },
   "notes": [
+    {
+      "id": "1787507614800",
+      "title": "Catequesis Camino",
+      "body": "Ver si podemos implementar una catequesis programada donde trabajemos desde una misma perpectiva",
+      "link": "",
+      "date": "2026-08-23T17:53:34.800Z"
+    },
     {
       "id": "1787504207219",
       "title": "Jueves 27-08-2026",
@@ -368,7 +376,23 @@
       "date": "2026-08-23T16:56:47.219Z"
     }
   ],
-  "peticiones": [],
+  "peticiones": [
+    {
+      "id": "1787507512580",
+      "text": "Señor, ayúdanos a aceptar nuestras cruces, sin huir de las dificultades, confiando en que Tú caminas siempre a nuestro lado.",
+      "date": "2026-08-23T17:51:52.580Z"
+    },
+    {
+      "id": "1787507527672",
+      "text": "Señor, danos un corazón dispuesto a seguirte, aprendiendo a renunciar a nuestro egoísmo, nuestras seguridades y aquello que nos aleja de Ti.",
+      "date": "2026-08-23T17:52:07.672Z"
+    },
+    {
+      "id": "1787507542805",
+      "text": "Señor, enséñanos a descubrir el verdadero valor de nuestra vida, para que no busquemos ganar el mundo, sino vivir desde el amor, la entrega y el servicio a los demás.",
+      "date": "2026-08-23T17:52:22.805Z"
+    }
+  ],
   "readings": {
     "primera": {
       "text": "Lectura del libro de Jeremías 20, 7-9\nMe sedujiste, Señor, y me dejé seducir;\nhas sido más fuerte que yo y me has podido.\nHe sido a diario el hazmerreír,\ntodo el mundo se burlaba de mí.\nCuando hablo, tengo que gritar,\nproclamar violencia y destrucción.\nLa palabra del Señor me ha servido\nde oprobio y desprecio a diario.\nPensé en olvidarme del asunto y dije:\n«No lo recordaré; no volveré a hablar en su nombre»;\npero había en mis entrañas como fuego,\nalgo ardiente encerrado en mis huesos.\nYo intentaba sofocarlo, y no podía.",
