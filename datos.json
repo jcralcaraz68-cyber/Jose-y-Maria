@@ -350,11 +350,24 @@
   "fuerzaUnlocked": {},
   "liturgicalMode": "auto",
   "contentEdits": {
-    "camino": {},
+    "camino": {
+      "1": {
+        "ejercicio": "Principio y Fundamento.\nLa primera parte del Principio y Fundamento de San Ignacio nos invita a descubrir que nuestra vida no es fruto del azar: Dios nos está creando continuamente y sosteniendo en cada instante por amor. Todo lo que somos y tenemos es un regalo suyo, y reconocerlo nos lleva a vivir desde la gratitud, no solo cuando sufrimos o perdemos algo. Dios no nos necesita, pero nos crea porque nos ama y nos llama a vivir unidos a Él; por eso nos invita a alabarle, hacerle reverencia y servirle, no para satisfacer una necesidad suya, sino porque esa relación con Él es nuestro verdadero bien. La pregunta profunda es si estamos viviendo nuestra vida desde esta conciencia: ¿reconozco que Dios me está dando la vida ahora mismo?, ¿busco descubrir su presencia en lo cotidiano?, ¿estoy poniendo toda mi vida al servicio de Dios y de los demás? El Principio y Fundamento nos recuerda que el sentido de nuestra existencia no está en nosotros mismos, sino en recibir el amor de Dios, responder a ese amor y vivir unidos a Él.",
+        "evangelio": "Mc 8,36\n«Porque ¿Qué aprovechará al hombre si ganare todo el mundo, y perdiere su alma?»"
+      }
+    },
     "vivamos": {},
     "fuerza": {}
   },
-  "notes": [],
+  "notes": [
+    {
+      "id": "1787504207219",
+      "title": "Jueves 27-08-2026",
+      "body": "",
+      "link": "",
+      "date": "2026-08-23T16:56:47.219Z"
+    }
+  ],
   "peticiones": [],
   "readings": {
     "primera": {
@@ -491,6 +504,7 @@
     }
   },
   "githubJsonUrl": "https://jcralcaraz68-cyber.github.io/Jose-y-Maria/datos.json",
+  "poso": [],
   "meetingDay": 4,
   "nextMeetingDate": "2026-07-30",
   "prayerAssignments": {
@@ -518,6 +532,8 @@
       "weekStart": "2026-07-22"
     }
   ],
+  "reflexions": [],
+  "absences": [],
   "liturgy": {
     "gospel": {
       "ref": "Jn 15,9-17",
@@ -531,9 +547,6 @@
     },
     "sunday": "2026-08-22T22:00:00.000Z"
   },
-  "reflexions": [],
-  "absences": [],
-  "poso": [],
   "weekOrder": [
     "1783274652807",
     "1785321799733",
