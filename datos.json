@@ -469,7 +469,11 @@
         "objetivo": "Descubrir que la vida tiene un sentido que va más allá de tener, hacer o aparentar.\nReflexión: \nLos Padres de la Iglesia nos recuerdan que la vida no encuentra su sentido último en lo que tenemos, hacemos o mostramos, sino en aquello para lo que hemos sido creados: vivir unidos a Dios. San Agustín expresa esta búsqueda diciendo que nuestro corazón permanece inquieto hasta descansar en Dios. San Ireneo, por su parte, nos recuerda que la verdadera vida del ser humano consiste en vivir en comunión con Dios. Desde esta mirada, tener más, hacer más o aparentar más nunca puede llenar del todo el corazón. El verdadero sentido aparece cuando descubrimos que somos amados por Dios, que nuestra vida es un don y que estamos llamados a amar, servir y entregar nuestra vida. No se trata tanto de preguntarnos “¿qué tengo?” o “¿qué consigo?”, sino “¿para quién estoy viviendo?” y “¿en qué estoy convirtiendo mi vida?”"
       }
     },
-    "vivamos": {},
+    "vivamos": {
+      "2": {
+        "ref": "Romanos 1,7 · 5,5\nRomanos 1:7: «A todos los que estáis en Roma, amados de Dios, llamados a ser santos: Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo»  //  Romanos 5:5: «Y la esperanza no avergüenza; porque el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que nos fue dado» "
+      }
+    },
     "fuerza": {}
   },
   "katPoso": {
