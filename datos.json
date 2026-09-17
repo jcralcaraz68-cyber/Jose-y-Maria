@@ -471,7 +471,8 @@
     },
     "vivamos": {
       "2": {
-        "ref": "Romanos 1,7 · 5,5\nRomanos 1:7: «A todos los que estáis en Roma, amados de Dios, llamados a ser santos: Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo»  //  Romanos 5:5: «Y la esperanza no avergüenza; porque el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que nos fue dado» "
+        "ref": "Romanos 1,7 · 5,5\nRomanos 1:7: «A todos los que estáis en Roma, amados de Dios, llamados a ser santos: Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo»  //  Romanos 5:5: «Y la esperanza no avergüenza; porque el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que nos fue dado» ",
+        "prayer": "Padre, gracias porque nos amaste primero. Que tu amor derramado en  nuestro corazón sea hoy más real que nuestras dudas. Amén.\n\n«Aunque caigas continuamente en tus mismas faltas,\naunque cometas esas culpas que te avergüenzan,\naunque no cumplas con tu deber,\naunque desprecies a tu prójimo,\naunque tantas veces te consideres indigno,\nYo te digo: ¡ámame como eres!\n\nEn todos los momentos de tu vida,\nen cualquier situación en que te encuentres,\ncuando tu alma esté llena de fervor,\ncuando tu corazón sea árido y seco,\nYo te digo: ¡ámame como eres!\n\nSi esperas ser un santo o un ángel\npara entregarte al amor, no me querrás nunca;\nquiero que tu amor salga de lo profundo de tu miseria,\npor eso, así te encuentres en la fidelidad o en la infidelidad,\nYo te digo: ¡ámame como eres!\n\nYo estoy a la puerta de tu corazón y llamo, ¡ábreme!...\nDéjame amarte, así, tal como eres.\nNo hace falta que cambies para abrirme la puerta.\nAsí, tal como eres, yo te amo,\nte doy mi pan y mi vino, mi fuerza y mi alegría,\nte doy la luz para afrontar y superar las dificultades de la vida,\nte doy el Espíritu de verdad y la Sabiduría del Amor;\nTe doy a mi Madre, para que te cuide como me cuidó a mí.\nYo te digo ahora y siempre: ¡ámame como eres,\ny déjame que te ame así, como eres. Amén».\n\nSatué"
       }
     },
     "fuerza": {}
@@ -700,16 +701,16 @@
   "absences": [],
   "liturgy": {
     "gospel": {
-      "ref": "Lc 10,25-37",
-      "title": "El buen samaritano",
-      "text": "Un letrado preguntó a Jesús: «¿Qué tengo que hacer para heredar la vida eterna?» Jesús le dijo: «Amarás al Señor tu Dios con todo tu corazón y a tu prójimo como a ti mismo.» El letrado preguntó: «¿Y quién es mi prójimo?»"
+      "ref": "Mt 5,1-12",
+      "title": "Las bienaventuranzas",
+      "text": "Jesús subió al monte y enseñaba: Dichosos los pobres de espíritu, porque de ellos es el reino de los cielos. Dichosos los que lloran, porque ellos serán consolados. Dichosos los mansos, porque ellos heredarán la tierra. Dichosos los misericordiosos, porque ellos alcanzarán misericordia."
     },
     "psalm": {
-      "ref": "Sal 62",
-      "antiphon": "Mi alma está sedienta de ti, Señor.",
-      "text": "Oh Dios, tú eres mi Dios, por ti madrugo,\nmi alma está sedienta de ti."
+      "ref": "Sal 15",
+      "antiphon": "Protégeme, Dios mío, que me refugio en ti.",
+      "text": "Protégeme, Dios mío, que me refugio en ti.\nEl Señor es el lote de mi heredad."
     },
-    "sunday": "2026-09-12T22:00:00.000Z"
+    "sunday": "2026-09-19T22:00:00.000Z"
   },
   "weekOrder": [
     "1783274652807",
