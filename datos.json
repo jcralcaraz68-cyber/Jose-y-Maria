@@ -307,6 +307,24 @@
       "date": "2026-09-18",
       "notes": "",
       "photo": ""
+    },
+    {
+      "id": "1790350677656",
+      "name": "Alicia Noriega Navarro",
+      "birth": "1996-10-06",
+      "phone": "",
+      "date": "2026-09-25",
+      "notes": "",
+      "photo": ""
+    },
+    {
+      "id": "1790525652657",
+      "name": "Mari Sol",
+      "birth": "",
+      "phone": "620864013",
+      "date": "2026-09-27",
+      "notes": "",
+      "photo": ""
     }
   ],
   "chosenMemberId": "",
@@ -442,6 +460,43 @@
       "1788512955446": "1786378147995",
       "1788513155031": "1784969804936",
       "1789742879251": "1784969583076"
+    },
+    "2026-09-23": {
+      "1783274652807": "1784970069420",
+      "1783274689711": "1784969232548",
+      "1784968776171": "1784969340689",
+      "1784968911799": "1784970133516",
+      "1784969048352": "1784969804936",
+      "1784969121884": "1785321799733",
+      "1784969184616": "1790350677656",
+      "1784969232548": "1784970174941",
+      "1784969297575": "1784969858264",
+      "1784969340689": "1783274652807",
+      "1784969419176": "1784970248201",
+      "1784969583076": "1784970384780",
+      "1784969631000": "1784969184616",
+      "1784969678636": "1784969121884",
+      "1784969723307": "1784969583076",
+      "1784969804936": "1784969940140",
+      "1784969858264": "1783274689711",
+      "1784969940140": "1784969982412",
+      "1784969982412": "1784969678636",
+      "1784970069420": "1784969048352",
+      "1784970133516": "1784970285032",
+      "1784970174941": "1786378147995",
+      "1784970208541": "1789742879251",
+      "1784970248201": "1788513155031",
+      "1784970285032": "1784969297575",
+      "1784970344880": "1788512907407",
+      "1784970384780": "1790525652657",
+      "1785321799733": "1784970344880",
+      "1786378147995": "1788512955446",
+      "1788512907407": "1784968776171",
+      "1788512955446": "1784968911799",
+      "1788513155031": "1784969419176",
+      "1789742879251": "1784969631000",
+      "1790350677656": "1784970208541",
+      "1790525652657": "1784969723307"
     }
   },
   "catequesisNotes": {},
@@ -528,60 +583,67 @@
   },
   "notes": [
     {
-      "id": "1789923478574",
-      "title": "",
-      "body": "Reunión 24-09-2026",
+      "id": "1790350864643",
+      "title": "Asamblea de envío",
+      "body": "El Domingo 4 de Octubre tendremos la asamblea de comienzo del curso, es muy importante que asistamos todos. comeremos juntos en el patio de la Parroquia",
       "link": "",
-      "date": "2026-09-20T16:57:58.574Z"
+      "date": "2026-09-25T15:41:04.643Z"
+    },
+    {
+      "id": "1790350752872",
+      "title": "Reunión 01-10-2026",
+      "body": "",
+      "link": "",
+      "date": "2026-09-25T15:39:12.872Z"
     }
   ],
   "peticiones": [
     {
-      "id": "1789923855053",
-      "text": "Señor, danos un corazón humilde, capaz de reconocer nuestros errores y cambiar de camino cuando sea necesario. roguemos al Señor",
-      "date": "2026-09-20T17:04:15.053Z"
+      "id": "1790351193864",
+      "text": "Señor, danos humildad para reconocer cuando nos equivocamos y valentía para cambiar de camino.",
+      "date": "2026-09-25T15:46:33.864Z"
     },
     {
-      "id": "1789923885739",
-      "text": "Señor, ayúdanos como comunidad a pasar de las palabras a los hechos, sirviendo y acompañando a quienes más lo necesitan. Roguemos al Señor",
-      "date": "2026-09-20T17:04:45.739Z"
+      "id": "1790351230959",
+      "text": "Señor, ayúdanos a pasar de las palabras a los hechos, para que nuestra fe se manifieste en el amor y el servicio a los demás.",
+      "date": "2026-09-25T15:47:10.959Z"
     },
     {
-      "id": "1789923910763",
-      "text": "Señor, danos un corazón abierto a la conversión, para que nunca pensemos que ya hemos llegado, sino que sigamos buscando cada día tu voluntad. Roguemos al Señor.",
-      "date": "2026-09-20T17:05:10.763Z"
+      "id": "1790351247407",
+      "text": "Señor, abre nuestro corazón a la conversión, para que sepamos escuchar tu voluntad y llevarla a nuestra vida.",
+      "date": "2026-09-25T15:47:27.407Z"
     }
   ],
   "readings": {
     "primera": {
-      "text": "Lectura de la profecía de Ezequiel 18, 25-28\nEsto dice el Señor:\n«Insistís: “No es justo el proceder del Señor”. Escuchad, casa de Israel: ¿Es injusto mi proceder? ¿No es más bien vuestro proceder el que es injusto?\nCuando el inocente se aparta de su inocencia, comete la maldad y muere, muere por la maldad que cometió.\nY cuando el malvado se convierte de la maldad que hizo y practica el derecho y la justicia, él salva su propia vida. Si recapacita y se convierte de los delitos cometidos, ciertamente vivirá y no morirá».",
+      "text": "Lectura del libro de Isaías 5, 1-7\nVoy a cantar a mi amigo\nel canto de mi amado por su viña.\nMi amigo tenía una viña en un fértil collado.\nLa entrecavó, quitó las piedras y plantó buenas cepas;\nconstruyó en medio una torre y cavó un lagar.\nEsperaba que diese uvas, pero dio agrazones.\nAhora, habitantes de Jerusalén, hombres de Judá,\npor favor, sed jueces entre mí y mi viña.\n¿Qué más podía hacer yo por mi viña que no hubiera hecho?\n¿Por qué, cuando yo esperaba que diera uvas, dio agrazones?\nPues os hago saber lo que haré con mi viña:\nquitar su valla y que sirva de leña,\nderruir su tapia y que sea pisoteada.\nLa convertiré en un erial: no la podarán ni la escardarán,\nallí crecerán zarzas y cardos,\nprohibiré a las nubes que lluevan sobre ella.\nLa viña del Señor del universo es la casa de Israel\ny los hombres de Judá su plantel preferido.\nEsperaba de ellos derecho, y ahí tenéis: sangre derramada;\nesperaba justicia, y ahí tenéis: lamentos.",
       "ref": ""
     },
     "segunda": {
-      "text": "Lectura de la carta del apóstol san Pablo a los Filipenses 2, 1-11\nHermanos:\nSi queréis darme el consuelo de Cristo y aliviarme con vuestro amor, si nos une el mismo Espíritu y tenéis entrañas compasivas, dadme esta gran alegría: manteneos unánimes y concordes con un mismo amor y un mismo sentir.\nNo obréis por rivalidad ni por ostentación, considerando por la humildad a los demás superiores a vosotros. No os encerréis en vuestros intereses, sino buscad todos el interés de los demás.\nTened entre vosotros los sentimientos propios de Cristo Jesús.\nEl cual, siendo de condición divina,\nno retuvo ávidamente el ser igual a Dios;\nal contrario, se despojó de sí mismo\ntomando la condición de esclavo,\nhecho semejante a los hombres.\nY así, reconocido como hombre por su presencia,\nse humilló a sí mismo, hecho obediente hasta la muerte, y una muerte de cruz.\nPor eso Dios lo exaltó sobre todo y le concedió el Nombre-sobre-todo-nombre;\nde modo que al nombre de Jesús toda rodilla se doble\nen el cielo, en la tierra, en el abismo, y toda lengua proclame:\nJesucristo es Señor,\npara gloria de Dios Padre.",
+      "text": "Lectura de la carta del apóstol san Pablo a los Filipenses 4, 6-9\nHermanos:\nNada os preocupe; sino que, en toda ocasión, en la oración y en la súplica, con acción de gracias, vuestras peticiones sean presentadas a Dios.\n\nY la paz de Dios, que supera todo juicio, custodiará vuestros corazones y vuestros pensamientos en Cristo Jesús.\n\nFinalmente, hermanos, todo lo que es verdadero, noble, justo, puro, amable, laudable, todo lo que es virtud o mérito, tenedlo en cuenta.\n\nLo que aprendisteis, recibisteis, oísteis, visteis en mí, ponedlo por obra.\nY el Dios de la paz estará con vosotros.",
       "ref": ""
     },
     "salmo": {
-      "text": "Salmo 24, 4bc-5. 6-7. 8-9 \n\nR/. Recuerda, Señor, tu ternura\n\nSeñor, enséñame tus caminos,\ninstrúyeme en tus sendas:\nhaz que camine con lealtad;\nenséñame, porque tú eres mi Dios y Salvador,\ny todo el día te estoy esperando. R/.\n\nRecuerda, Señor, que tu ternura\ny tu misericordia son eternas;\nno te acuerdes de los pecados\nni de las maldades de mi juventud;\nacuérdate de mí con misericordia,\npor tu bondad, Señor. R/.\n\nEl Señor es bueno y es recto,\ny enseña el camino a los pecadores;\nhace caminar a los humildes con rectitud,\nenseña su camino a los humildes. R/.",
+      "text": "Salmo 79, 9 y 12. 13-14. 15-16. 19-20 \n\nR/. La viña del Señor es la casa de Israel\n\nSacaste una vid de Egipto,\nexpulsaste a los gentiles, y la trasplantaste.\nExtendió sus sarmientos hasta el mar,\ny sus brotes hasta el Gran Río. R/.\n\n¿Por qué has derribado su cerca\npara que la saqueen los viandantes,\nla pisoteen los jabalíes\ny se la coman las alimañas? R/.\n\nDios del universo, vuélvete:\nmira desde el cielo, fíjate,\nven a visitar tu viña.\nCuida la cepa que tu diestra plantó.\ny al hijo del hombre que tú has fortalecido. R/.\n\nNo nos alejaremos de ti:\ndanos vida, para que invoquemos tu nombre.\nSeñor, Dios del universo, restáuranos,\nque brille tu rostro y nos salve. R/.",
       "ref": ""
     },
     "evangelio": {
-      "text": "Lectura del santo evangelio según san Mateo 21, 28-32\nEn aquel tiempo, dijo Jesús a los sumos sacerdotes y a los ancianos del pueblo:\n«¿Qué os parece? Un hombre tenía dos hijos. Se acercó al primero y le dijo: “Hijo, ve hoy a trabajar en la viña”. Él le contestó: “No quiero». Pero después se arrepintió y fue.\nSe acercó al segundo y le dijo lo mismo. Él le contestó: “Voy, señor”. Pero no fue.\n¿Quién de los dos cumplió la voluntad de su padre?».\nContestaron:\n«El primero».\nJesús les dijo:\n«En verdad os digo que los publicanos y las prostitutas van por delante de vosotros en el reino de Dios. Porque vino Juan a vosotros enseñándoos el camino de la justicia y no le creísteis; en cambio, los publicanos y prostitutas le creyeron. Y, aun después de ver esto, vosotros no os arrepentisteis ni le creísteis».",
+      "text": "Lectura del santo evangelio según san Mateo 21, 33-43\nEn aquel tiempo, dijo Jesús a los sumos sacerdotes y a los ancianos del pueblo:\n«Escuchad otra parábola: “Había un propietario que plantó una viña, la rodeó con una cerca, cavó en ella un lagar, construyó una torre, la arrendó a unos labradores y se marchó lejos. Llegado el tiempo de los frutos, envió sus criados a los labradores para percibir los frutos que le correspondían. Pero los labradores, agarrando a los criados, apalearon a uno, mataron a otro y a otro lo apedrearon.\nEnvió de nuevo otros criados, más que la primera vez, e hicieron con ellos lo mismo. Por último, les mandó a su hijo diciéndose: ‘Tendrán respeto a mi hijo’.\nPero los labradores, al ver al hijo se dijeron: ‘Este es el heredero: venid, lo matamos y nos quedamos con su herencia’.\nY agarrándolo, lo sacaron fuera de la viña y lo mataron. Cuando vuelva el dueño de la viña, ¿qué hará con aquellos labradores?».\nLe contestan:\n«Hará morir de mala muerte a esos malvados y arrendará la viña a otros labradores que le entreguen los frutos a su tiempo».\nY Jesús les dice:\n«No habéis leído nunca en la Escritura:\n“La piedra que desecharon los arquitectos\nes ahora la piedra angular.\nEs el Señor quien lo ha hecho,\nha sido un milagro patente”\nPor eso os digo que se os quitará a vosotros el reino de Dios y se dará a un pueblo que produzca sus frutos».",
       "ref": ""
     }
   },
   "keywords": [
     {
-      "id": "1789923802409",
-      "text": "CONVERSIÓN — reconocer, volver a Dios y poner en práctica su voluntad.",
-      "date": "2026-09-20T17:03:22.409Z"
+      "id": "1790351293784",
+      "text": "CONVERSIÓN — tener la humildad de reconocer el error, volver a Dios y poner en práctica su voluntad.",
+      "date": "2026-09-25T15:48:13.784Z"
     }
   ],
   "comments": [
     {
-      "id": "1789923699169",
-      "text": "Los Padres del Desierto daban mucha importancia a que la vida confirmara las palabras. No basta con decir «sí, Señor»; lo importante es que nuestras decisiones y acciones vayan transformando ese sí en una realidad.\n\nEl primer hijo dice «no quiero», pero después entra en sí mismo, se arrepiente y va. Para los Padres, este volver sobre uno mismo es fundamental: reconocer la propia resistencia, no justificarse y tener la humildad de cambiar de dirección.\n\nQuizá este Evangelio nos invita a preguntarnos: ¿mi fe está solamente en mis palabras o se está haciendo vida en mis actos? Dios no busca una respuesta perfecta, sino un corazón humilde que, incluso después de haberse equivocado, sea capaz de volver y decir: «Señor, aquí estoy; quiero hacer tu voluntad».",
-      "date": "2026-09-20T17:01:39.169Z"
+      "id": "1790351138132",
+      "text": "Los Padres del Desierto enseñaban que la verdadera conversión comienza cuando dejamos de justificarnos y somos capaces de reconocer la verdad de nuestro corazón. El primer hijo dice «no», pero después recapacita y va a la viña; el segundo dice «sí», pero no actúa.\n\nPara ellos, no era tan importante lo que una persona decía, sino lo que hacía con aquello que Dios le mostraba. A veces nuestro «no» puede convertirse en un «sí» cuando tenemos la humildad de volver atrás.\n\nEste Evangelio nos recuerda que Dios no busca palabras perfectas, sino un corazón dispuesto a convertirse y ponerse en camino.",
+      "date": "2026-09-25T15:45:38.132Z"
     }
   ],
   "conclusions": [
@@ -691,6 +753,17 @@
       "emotionSummary": "",
       "spiritSummary": "",
       "archivedAt": "2026-09-20T16:57:04.811Z"
+    },
+    "2026-09-23": {
+      "keywords": [
+        "CONVERSIÓN — reconocer, volver a Dios y poner en práctica su voluntad."
+      ],
+      "comments": [
+        "Los Padres del Desierto daban mucha importancia a que la vida confirmara las palabras. No basta con decir «sí, Señor»; lo importante es que nuestras decisiones y acciones vayan transformando ese sí en una realidad.\n\nEl primer hijo dice «no quiero», pero después entra en sí mismo, se arrepiente y va. Para los Padres, este volver sobre uno mismo es fundamental: reconocer la propia resistencia, no justificarse y tener la humildad de cambiar de dirección.\n\nQuizá este Evangelio nos invita a preguntarnos: ¿mi fe está solamente en mis palabras o se está haciendo vida en mis actos? Dios no busca una respuesta perfecta, sino un corazón humilde que, incluso después de haberse equivocado, sea capaz de volver y decir: «Señor, aquí estoy; quiero hacer tu voluntad»."
+      ],
+      "emotionSummary": "",
+      "spiritSummary": "",
+      "archivedAt": "2026-09-25T15:41:18.962Z"
     }
   },
   "calNotes": {
@@ -707,7 +780,7 @@
       }
     ]
   },
-  "preguntaVital": "¿Estamos realmente haciendo la voluntad de Dios con nuestras acciones, o nos quedamos solamente en buenas palabras e intenciones?",
+  "preguntaVital": "¿Hay algún «no» que estoy dando a Dios, aunque exteriormente diga que quiero seguirle? //\n¿Mis acciones están mostrando realmente aquello que digo creer?",
   "calMonth": 8,
   "calYear": 2026,
   "asistencia": {
@@ -760,16 +833,16 @@
   "absences": [],
   "liturgy": {
     "gospel": {
-      "ref": "Mt 5,1-12",
-      "title": "Las bienaventuranzas",
-      "text": "Jesús subió al monte y enseñaba: Dichosos los pobres de espíritu, porque de ellos es el reino de los cielos. Dichosos los que lloran, porque ellos serán consolados. Dichosos los mansos, porque ellos heredarán la tierra. Dichosos los misericordiosos, porque ellos alcanzarán misericordia."
+      "ref": "Jn 14,1-12",
+      "title": "Yo soy el camino, la verdad y la vida",
+      "text": "Jesús dijo: «No se turbe vuestro corazón. Creéis en Dios: creed también en mí. En la casa de mi Padre hay muchas moradas. Voy a prepararos un lugar. Yo soy el camino, la verdad y la vida.»"
     },
     "psalm": {
-      "ref": "Sal 15",
-      "antiphon": "Protégeme, Dios mío, que me refugio en ti.",
-      "text": "Protégeme, Dios mío, que me refugio en ti.\nEl Señor es el lote de mi heredad."
+      "ref": "Sal 117",
+      "antiphon": "Alabad al Señor porque es bueno.",
+      "text": "Dad gracias al Señor porque es bueno,\nporque es eterna su misericordia."
     },
-    "sunday": "2026-09-19T22:00:00.000Z"
+    "sunday": "2026-09-26T22:00:00.000Z"
   },
   "weekOrder": [
     "1783274652807",
