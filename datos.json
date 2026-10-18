@@ -632,8 +632,54 @@
     "intro": {
       "0": []
     },
-    "oracion": {},
-    "oraciones": {}
+    "oracion": {
+      "0": [
+        {
+          "id": "lk1792315650621313",
+          "label": "",
+          "url": ""
+        }
+      ]
+    },
+    "oraciones": {
+      "0": [
+        {
+          "id": "lk1792314117998279",
+          "label": "Eprex Liturgia de las Horas ",
+          "url": "https://saints-app.vercel.app/tabs/home"
+        },
+        {
+          "id": "lk1792314203012936",
+          "label": "Biblia conferencia Episcopal ",
+          "url": "https://www.conferenciaepiscopal.es/biblia/"
+        },
+        {
+          "id": "lk1792314446331287",
+          "label": "Adoración al Santisimo",
+          "url": "https://www.youtube.com/watch?v=9vYCoPNz3m8"
+        },
+        {
+          "id": "lk1792314560671143",
+          "label": "Fatima ",
+          "url": "https://www.youtube.com/watch?v=8Rzq8IlqaGE"
+        },
+        {
+          "id": "lk1792314629846156",
+          "label": "Lourdes ",
+          "url": "https://www.youtube.com/watch?v=8ZCCblHiTjA"
+        },
+        {
+          "id": "lk1792314725411932",
+          "label": "Vaticano ",
+          "url": "https://www.youtube.com/channel/UCnB5vfb9FMMNTnC6-kAT3fQ/live?app=desktop"
+        },
+        {
+          "id": "lk1792315593041409",
+          "label": "Adoración Perpetua",
+          "url": "https://www.youtube.com/watch?v=ZT1DQta9Uj0"
+        }
+      ]
+    }
   },
   "contentEdits": {
     "camino": {
@@ -658,60 +704,60 @@
   },
   "notes": [
     {
-      "id": "1791895526592",
+      "id": "1792316942181",
       "title": "",
-      "body": "Este Jueves tenemos Comunidad como siempre a las 8.30 vamos a intentar estar todos.",
+      "body": "Buenas tendremos nuestra comunidad este Jueves 22 Octubre  a las 20.30",
       "link": "",
-      "date": "2026-10-13T12:45:26.592Z"
+      "date": "2026-10-18T09:49:02.181Z"
     }
   ],
   "peticiones": [
     {
-      "id": "1791896129850",
-      "text": "Señor, enséñame a reconocer tu imagen en mí. Que no busque mi valor en mis resultados ni en la aprobación de los demás, sino en saberme hijo tuyo.",
-      "date": "2026-10-13T12:55:29.850Z"
+      "id": "1792316586952",
+      "text": "Señor, enséñame a amarte con todo mi corazón, no solo con mis palabras y mis obras, sino también confiando en Ti en medio de mis miedos y debilidades.",
+      "date": "2026-10-18T09:43:06.952Z"
     },
     {
-      "id": "1791896178317",
-      "text": "Espíritu Santo, dame un corazón sincero. Ayúdame a descubrir los pensamientos que nacen del miedo y a no confundirlos con la verdad. Enséñame a sentir sin huir y a confiar sin necesitar tenerlo todo controlado.",
-      "date": "2026-10-13T12:56:18.317Z"
+      "id": "1792316602794",
+      "text": "Jesús, transforma mi manera de amar al prójimo. Líbrame del juicio, de la indiferencia y de la búsqueda de reconocimiento. Enséñame a amar con humildad, libertad y misericordia.",
+      "date": "2026-10-18T09:43:22.794Z"
     },
     {
-      "id": "1791896194456",
-      "text": "Jesús, enséñame a darte lo que es tuyo. Que cumpla mis responsabilidades con amor, pero que no entregue mi paz a las exigencias del mundo. Que aprenda a vivir cada día confiando en que mi historia está en tus manos.",
-      "date": "2026-10-13T12:56:34.456Z"
+      "id": "1792316617780",
+      "text": "Espíritu Santo, enséñame a vivir el amor sin exigirme ser perfecto. Ayúdame a reconocer mis límites, a tratarme con paciencia y a recordar que el camino hacia el amor comienza dejándome amar por Dios. ✕",
+      "date": "2026-10-18T09:43:37.780Z"
     }
   ],
   "readings": {
     "primera": {
-      "text": "Primera lectura\nLectura del libro de Isaías 45, 1. 4-6\nEsto dice el Señor a su Ungido, a Ciro:\n«Yo lo he tomado de la mano,\npara doblegar ante él las naciones\ny desarmar a los reyes,\npara abrir ante él las puertas,\npara que los portales no se cierren.\nPor mi siervo Jacob,\npor mi escogido Israel,\nte llamé por tu nombre,\nte di un título de honor,\naunque no me conocías.\nYo soy el Señor y no hay otro;\nfuera de mí no hay dios.\nTe pongo el cinturón,\naunque no me conoces,\npara que sepan de Oriente a Occidente\nque no hay otro fuera de mí.\nYo soy el Señor y no hay otro».",
+      "text": "Lectura del libro del Éxodo 22, 20-26\nEsto dice el Señor:\n«No maltratarás ni oprimirás al emigrante, pues emigrantes fuisteis vosotros en la tierra de Egipto.\nNo explotarás a viudas ni a huérfanos. Si los explotas y gritan a mí, yo escucharé su clamor, se encenderá mi ira y os mataré a espada; vuestras mujeres quedarán viudas y vuestros hijos huérfanos.\nSi prestas dinero a alguien de mi pueblo, a un pobre que habita contigo, no serás con él un usurero cargándole intereses.\nSi tomas en prenda el manto de tu prójimo, se lo devolverás antes de ponerse el sol, porque no tiene otro vestido para cubrir su cuerpo, ¿y dónde, si no, se va a acostar? Si grita a mí, yo lo escucharé, porque yo soy compasivo».",
       "ref": ""
     },
     "segunda": {
-      "text": "Segunda lectura\nLectura de la primera carta del apóstol san Pablo a los Tesalonicenses 1, 1-5b\nPablo, Silvano y Timoteo a la Iglesia de los Tesalonicenses, en Dios Padre y en el Señor Jesucristo. A vosotros, gracia y paz.\nEn todo momento damos gracias a Dios por todos vosotros y os tenemos presentes en nuestras oraciones, pues sin cesar recordamos ante Dios, nuestro Padre, la actividad de vuestra fe, el esfuerzo de vuestro amor y la firmeza de vuestra esperanza en Jesucristo nuestro Señor.\nBien sabemos, hermanos amados de Dios, que él os ha elegido, pues cuando os anuncié nuestro evangelio, no fue solo de palabra, sino también con la fuerza del Espíritu Santo y con plena convicción.",
+      "text": "Lectura de la primera carta del apóstol san Pablo a los Tesalonicenses 1, 5c-10\nHermanos:\nSabéis cómo nos comportamos entre vosotros para vuestro bien. Y vosotros seguisteis nuestro ejemplo y el del Señor, acogiendo la Palabra en medio de una gran tribulación, con la alegría del Espíritu Santo. Así llegasteis a ser un modelo para todos los creyentes de Macedonia y de Acaya.\nNo solo ha resonado la palabra del Señor en Macedonia y en Acaya desde vuestra comunidad, sino que además vuestra fe en Dios se ha difundido por doquier, de modo que nosotros no teníamos necesidad de explicar nada, ya que ellos mismos cuentan los detalles de la visita que os hicimos: cómo os convertisteis a Dios, abandonando los ídolos, para servir al Dios vivo y verdadero, y vivir aguardando la vuelta de su Hijo Jesús desde el cielo, a quien ha resucitado de entre los muertos y que nos libra del castigo futuro.",
       "ref": ""
     },
     "salmo": {
-      "text": "Salmo 95, 1 y 3. 4-5. 7-8a. 9-10ac \n\nR/. Aclamad la gloria y el poder del Señor.\nCantad al Señor un cántico nuevo,\ncantad al Señor, toda la tierra.\nContad a los pueblos su gloria,\nsus maravillas a todas las naciones. R/.\n\nPorque es grande el Señor,\ny muy digno de alabanza,\nmás temible que todos los dioses.\nPues los dioses de los gentiles no son nada,\nmientras que el Señor ha hecho el cielo. R/.\n\nFamilias de los pueblos, aclamad al Señor,\naclamad la gloria y el poder del Señor,\naclamad la gloria del nombre del Señor,\nentrad en sus atrios trayéndole ofrendas. R/.\n\nPostraos ante el Señor en el atrio sagrado,\ntiemble en su presencia la tierra toda.\nDecid a los pueblos: «El Señor es rey,\nél gobierna a los pueblos rectamente». R/.",
+      "text": "Salmo 17, 2-3a. 3bc-4. 47 y 51ab\n\nR/. Yo te amo, Señor; tú eres mi fortaleza.\n\nYo te amo, Señor; tú eres mi fortaleza;\nSeñor, mi roca, mi alcázar, mi libertador. R/.\n\nDios mío, peña mía, refugio mío,\nescudo mío, mi fuerza salvadora, mi baluarte.\nInvoco al Señor de mi alabanza\ny quedo libre de mis enemigos. R/.\n\nViva el Señor, bendita sea mi Roca,\nsea ensalzado mi Dios y Salvador.\nTú diste gran victoria a tu rey,\ntuviste misericordia de tu ungido. R/.",
       "ref": ""
     },
     "evangelio": {
-      "text": "Evangelio del día\nLectura del santo evangelio según san Mateo 22, 15-21\nEn aquel tiempo, se retiraron los fariseos y llegaron a un acuerdo para comprometer a Jesús con una pregunta.\nLe enviaron algunos discípulos suyos, con unos herodianos, y le dijeron:\n«Maestro, sabemos que eres sincero y que enseñas el camino de Dios conforme a la verdad, sin que te importe nadie, porque no te fijas en apariencias. Dinos, pues, qué opinas:\n¿es lícito pagar impuesto al César o no?».\nComprendiendo su mala voluntad, les dijo Jesús:\n«Hipócritas, ¿por qué me tentáis? Enseñadme la moneda del impuesto».\nLe presentaron un denario.\nÉl les preguntó:\n«De quién son esta imagen y esta inscripción?».\nLe respondieron:\n«Del César».\nEntonces les replicó:\n«Pues dad al César lo que es del César y a Dios lo que es de Dios».",
+      "text": "Lectura del santo evangelio según san Mateo 22, 34-40\nEn aquel tiempo, los fariseos, al oír que Jesús había hecho callar a los saduceos, se reunieron en un lugar y uno de ellos, un doctor de la ley, le preguntó para ponerlo a\nprueba:\n«Maestro, ¿cuál es el mandamiento principal de la ley?».\nÉl le dijo:\n«“Amarás al Señor tu Dios con todo tu corazón, con toda tu alma, con toda tu mente”.\nEste mandamiento es el principal y primero. El segundo es semejante a él:\n“Amarás a tu prójimo como a ti mismo”.\nEn estos dos mandamientos se sostienen toda la Ley y los Profetas».",
       "ref": ""
     }
   },
   "keywords": [
     {
-      "id": "1791906277369",
-      "text": "PERTENENCIA No eres solamente lo que haces, lo que consigues ni lo que los demás piensan de ti. Eres una criatura amada por Dios, creada a su imagen.",
-      "date": "2026-10-13T15:44:37.369Z"
+      "id": "1792316777420",
+      "text": "\"AMOR El amor es el centro y la medida de la vida cristiana. No se trata únicamente de sentir amor, sino de aprender a vivir desde él: acercarme a Dios con confianza, mirar al prójimo con misericordia y tratarme a mí mismo sin desprecio ni exigencias desmedidas.\"",
+      "date": "2026-10-18T09:46:17.420Z"
     }
   ],
   "comments": [
     {
-      "id": "1791895920391",
-      "text": "Padres del Desierto\nLos fariseos se acercan a Jesús, pero no buscan la verdad: quieren ponerlo a prueba. Sus palabras parecen sinceras, pero su intención está oculta. Jesús no se deja atrapar porque mira más allá de las apariencias y descubre lo que hay en el corazón.\nLos Padres del Desierto nos invitan precisamente a eso: dejar de vivir engañados por nuestros propios pensamientos y aprender a mirar el corazón ante Dios.\nA veces también nosotros nos acercamos a Dios buscando que confirme lo que ya pensamos, que nos quite el miedo o que nos garantice que todo saldrá como queremos. Pero la oración verdadera no consiste en conseguir que Dios se adapte a nuestros planes, sino en dejarnos transformar por su verdad.\nJesús pide que le enseñen una moneda y pregunta de quién son la imagen y la inscripción. La moneda lleva la imagen del César, pero hay algo más profundo que descubrir: nosotros llevamos la imagen de Dios.\nSan Agustín, recogiendo una tradición espiritual que también resuena en los Padres del Desierto, nos ayuda a comprender que el corazón humano está hecho para Dios. Podemos entregar al mundo nuestro trabajo, cumplir nuestras responsabilidades y atender nuestras obligaciones, pero no debemos entregarles nuestra identidad, nuestra paz ni el lugar que solo corresponde a Dios.\nLos Padres del Desierto también enseñaban a vigilar los pensamientos: no todo lo que aparece en nuestra mente es verdad, ni todo lo que sentimos debe gobernar nuestra vida.\nCuando aparece el pensamiento «tengo que demostrar lo que valgo», podemos detenernos y preguntarnos: ¿esto nace de la verdad de Dios o del miedo a no ser suficiente?\nJesús no nos pide que abandonemos nuestras responsabilidades. Nos invita a vivirlas desde otro lugar: trabajar sin convertir el trabajo en nuestra identidad, amar sin comprar el amor y cumplir nuestras obligaciones sin creer que todo depende de nosotros.",
-      "date": "2026-10-13T12:52:00.391Z"
+      "id": "1792316783583",
+      "text": "Los fariseos preguntan a Jesús cuál es el mandamiento principal. Jesús responde que toda la Ley y los Profetas se sostienen en el amor a Dios y al prójimo. Los Padres del Desierto nos enseñan que la vida espiritual no consiste solamente en cumplir normas, rezar mucho o conocer las cosas de Dios. Consiste en dejar que Dios transforme nuestro corazón para aprender a amar de verdad. Abba Antonio, uno de los grandes padres del desierto, nos recuerda con su vida que la búsqueda de Dios exige sinceridad, vigilancia interior y conversión. No basta con hacer cosas buenas exteriormente: necesitamos mirar qué mueve nuestras acciones por dentro. Podemos ayudar a alguien, cumplir nuestras obligaciones o dedicar tiempo a la oración, pero hacerlo desde el miedo, la necesidad de aprobación o la exigencia de sentirnos suficientes. Jesús nos invita a ir más allá: a amar porque hemos descubierto que somos amados por Dios. Y hay un detalle importante: Jesús une el amor a Dios con el amor al prójimo, pero también dice que debemos amar al prójimo como a nosotros mismos. No se trata de despreciarnos, exigirnos hasta agotarnos ni olvidar nuestros límites. Tampoco de ponernos por encima de los demás. Se trata de reconocer que nuestra vida también merece cuidado, paciencia y misericordia. Los Padres del Desierto prestaban mucha atención a los pensamientos que nacen en el corazón. Nos invitan a observar si actuamos movidos por el amor o por el temor, sin condenarnos por descubrir nuestras contradicciones. Quizá hoy la pregunta no sea cuánto hago por Dios, sino si permito que su amor llegue a mi interior y transforme mi manera de tratarme y de tratar a los demás. Amar a Dios con todo el corazón es dejar de vivir divididos entre lo que creemos y lo que tememos, y aprender a confiar cada vez más en Él.",
+      "date": "2026-10-18T09:46:23.583Z"
     }
   ],
   "conclusions": [
@@ -850,6 +896,17 @@
       "emotionSummary": "",
       "spiritSummary": "",
       "archivedAt": "2026-10-13T12:44:43.747Z"
+    },
+    "2026-10-14": {
+      "keywords": [
+        "PERTENENCIA No eres solamente lo que haces, lo que consigues ni lo que los demás piensan de ti. Eres una criatura amada por Dios, creada a su imagen."
+      ],
+      "comments": [
+        "Padres del Desierto\nLos fariseos se acercan a Jesús, pero no buscan la verdad: quieren ponerlo a prueba. Sus palabras parecen sinceras, pero su intención está oculta. Jesús no se deja atrapar porque mira más allá de las apariencias y descubre lo que hay en el corazón.\nLos Padres del Desierto nos invitan precisamente a eso: dejar de vivir engañados por nuestros propios pensamientos y aprender a mirar el corazón ante Dios.\nA veces también nosotros nos acercamos a Dios buscando que confirme lo que ya pensamos, que nos quite el miedo o que nos garantice que todo saldrá como queremos. Pero la oración verdadera no consiste en conseguir que Dios se adapte a nuestros planes, sino en dejarnos transformar por su verdad.\nJesús pide que le enseñen una moneda y pregunta de quién son la imagen y la inscripción. La moneda lleva la imagen del César, pero hay algo más profundo que descubrir: nosotros llevamos la imagen de Dios.\nSan Agustín, recogiendo una tradición espiritual que también resuena en los Padres del Desierto, nos ayuda a comprender que el corazón humano está hecho para Dios. Podemos entregar al mundo nuestro trabajo, cumplir nuestras responsabilidades y atender nuestras obligaciones, pero no debemos entregarles nuestra identidad, nuestra paz ni el lugar que solo corresponde a Dios.\nLos Padres del Desierto también enseñaban a vigilar los pensamientos: no todo lo que aparece en nuestra mente es verdad, ni todo lo que sentimos debe gobernar nuestra vida.\nCuando aparece el pensamiento «tengo que demostrar lo que valgo», podemos detenernos y preguntarnos: ¿esto nace de la verdad de Dios o del miedo a no ser suficiente?\nJesús no nos pide que abandonemos nuestras responsabilidades. Nos invita a vivirlas desde otro lugar: trabajar sin convertir el trabajo en nuestra identidad, amar sin comprar el amor y cumplir nuestras obligaciones sin creer que todo depende de nosotros."
+      ],
+      "emotionSummary": "",
+      "spiritSummary": "",
+      "archivedAt": "2026-10-18T09:42:24.761Z"
     }
   },
   "calNotes": {
@@ -866,7 +923,7 @@
       }
     ]
   },
-  "preguntaVital": "¿Estoy buscando sinceramente la verdad de Dios o intento que Dios confirme lo que yo quiero? // \n¿Estoy dando a Dios lo que le pertenece —mi corazón, mi confianza y mi vida— o estoy dejando que otras cosas ocupen su lugar?",
+  "preguntaVital": "¿Qué ocupa realmente el primer lugar en mi corazón: el amor a Dios o mis preocupaciones, mis miedos y mis propias exigencias? //\n¿Estoy amando a mi prójimo como Jesús me enseña, incluyéndome también a mí mismo, o me trato con una dureza que no tendría con los demás?",
   "calMonth": 8,
   "calYear": 2026,
   "asistencia": {
@@ -938,16 +995,16 @@
   "absences": [],
   "liturgy": {
     "gospel": {
-      "ref": "Jn 15,9-17",
-      "title": "Permaneced en mi amor",
-      "text": "En aquel tiempo, dijo Jesús a sus discípulos: «Como el Padre me ha amado, así os he amado yo; permaneced en mi amor. Si guardáis mis mandamientos, permaneceréis en mi amor, lo mismo que yo he guardado los mandamientos de mi Padre. Os he dicho esto para que mi alegría esté en vosotros, y vuestra alegría sea perfecta. Este es mi mandamiento: que os améis unos a otros como yo os he amado.»"
+      "ref": "Mc 1,14-20",
+      "title": "La llamada de los primeros discípulos",
+      "text": "Jesús fue a Galilea a proclamar el Evangelio de Dios. Decía: «Se ha cumplido el plazo, el reino de Dios está cerca; convertíos y creed en el Evangelio.» Pasando junto al lago vio a Simón y a Andrés echando las redes. Les dijo: «Venid detrás de mí, y os haré pescadores de hombres.» Inmediatamente dejaron las redes y lo siguieron."
     },
     "psalm": {
-      "ref": "Sal 33",
-      "antiphon": "Gustad y ved qué bueno es el Señor.",
-      "text": "Bendigo al Señor en todo momento,\nsu alabanza está siempre en mi boca."
+      "ref": "Sal 62",
+      "antiphon": "Mi alma está sedienta de ti, Señor.",
+      "text": "Oh Dios, tú eres mi Dios, por ti madrugo,\nmi alma está sedienta de ti."
     },
-    "sunday": "2026-10-10T22:00:00.000Z"
+    "sunday": "2026-10-17T22:00:00.000Z"
   },
   "weekOrder": [
     "1783274652807",
