@@ -608,6 +608,43 @@
       "1789742879251": "1784969419176",
       "1790350677656": "1784969583076",
       "1790535532336": "1784969631000"
+    },
+    "2026-11-12": {
+      "1783274652807": "1784969723307",
+      "1783274689711": "1784969804936",
+      "1784968776171": "1784969858264",
+      "1784968911799": "1784969940140",
+      "1784969048352": "1784969982412",
+      "1784969121884": "1784970069420",
+      "1784969184616": "1784970133516",
+      "1784969232548": "1784970174941",
+      "1784969297575": "1784970208541",
+      "1784969340689": "1784970248201",
+      "1784969419176": "1784970285032",
+      "1784969583076": "1784970344880",
+      "1784969631000": "1784970384780",
+      "1784969678636": "1785321799733",
+      "1784969723307": "1786378147995",
+      "1784969804936": "1788512907407",
+      "1784969858264": "1788512955446",
+      "1784969940140": "1788513155031",
+      "1784969982412": "1789742879251",
+      "1784970069420": "1790350677656",
+      "1784970133516": "1790535532336",
+      "1784970174941": "1783274652807",
+      "1784970208541": "1783274689711",
+      "1784970248201": "1784968776171",
+      "1784970285032": "1784968911799",
+      "1784970344880": "1784969048352",
+      "1784970384780": "1784969121884",
+      "1785321799733": "1784969184616",
+      "1786378147995": "1784969232548",
+      "1788512907407": "1784969297575",
+      "1788512955446": "1784969340689",
+      "1788513155031": "1784969419176",
+      "1789742879251": "1784969583076",
+      "1790350677656": "1784969631000",
+      "1790535532336": "1784969678636"
     }
   },
   "catequesisNotes": {},
@@ -622,7 +659,7 @@
     "2": true
   },
   "fuerzaUnlocked": {},
-  "liturgicalMode": "auto",
+  "liturgicalMode": "ordinario",
   "katFontScale": 1.15,
   "katImages": {
     "camino": {},
@@ -673,8 +710,8 @@
       "0": [
         {
           "id": "lk1792315650621313",
-          "label": "",
-          "url": ""
+          "label": "La Cabaña ",
+          "url": "https://www.google.com/search?q=trailer+la+caba%C3%B1a&oq=trailer+la+caba%C3%B1a&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMgoICBAAGIAEGKIE0gEJNzE4NGowajE1qAIIsAIB&sourceid=chrome&source=chrome.rb&ie=UTF-8#fpstate=ive&vld=cid:b61153a1,vid:-TG5k-KO0l0,st:0"
         }
       ]
     },
@@ -741,60 +778,61 @@
   },
   "notes": [
     {
-      "id": "1793563837507",
+      "id": "1794211710931",
       "title": "",
-      "body": "Tendremos nuestra reunión de la comunidad el Jueves 05-11-2026",
+      "body": "El Sábado 14 tendremos después de la Eucaristía tendremos cine.",
       "link": "",
-      "date": "2026-11-01T20:10:37.507Z"
+      "date": "2026-11-09T08:08:30.931Z"
+    },
+    {
+      "id": "1794211009826",
+      "title": "",
+      "body": "Esta semana celebramos la Eucaristía, el Jueves 12 después tendremos un compartir, en los salones.",
+      "link": "",
+      "date": "2026-11-09T07:56:49.826Z"
     }
   ],
   "peticiones": [
     {
-      "id": "1793564046702",
-      "text": "Señor, ayúdame a mantener encendida mi lámpara. Enséñame a cuidar mi relación contigo mediante la oración, la confianza y el amor de cada día.",
-      "date": "2026-11-01T20:14:06.702Z"
+      "id": "1794211031400",
+      "text": "Señor, ayúdame a reconocer los talentos que me has dado. Que no me compare con los demás ni desprecie lo que he recibido, sino que aprenda a valorarlo y desarrollarlo.",
+      "date": "2026-11-09T07:57:11.400Z"
     },
     {
-      "id": "1793564064491",
-      "text": "Jesús, dame paciencia para esperarte. Que no me aleje de Ti cuando no comprenda lo que sucede, cuando tenga miedo o cuando tus tiempos sean distintos de los míos.",
-      "date": "2026-11-01T20:14:24.491Z"
+      "id": "1794211045516",
+      "text": "Jesús, libérame del miedo que me paraliza. Ayúdame a no esconderme detrás de mis inseguridades, mis pensamientos y mi necesidad de tenerlo todo controlado.",
+      "date": "2026-11-09T07:57:25.516Z"
     },
     {
-      "id": "1793564080414",
-      "text": "Espíritu Santo, despierta mi corazón. Ayúdame a no vivir distraído por las preocupaciones, sino atento a tu presencia y dispuesto a responder a tu llamada.",
-      "date": "2026-11-01T20:14:40.414Z"
+      "id": "1794211062858",
+      "text": "Espíritu Santo, enséñame a ser fiel en lo pequeño. Que utilice mis capacidades con amor, generosidad y confianza, sin vivir pendiente de los resultados.",
+      "date": "2026-11-09T07:57:42.858Z"
     }
   ],
   "readings": {
     "primera": {
-      "text": "Lectura del libro de la Sabiduría 6, 12-16\nRadiante e inmarcesible es la sabiduría,\nla ven con facilidad los que la aman\ny quienes la buscan la encuentran.\nSe adelanta en manifestarse a los que la desean.\nQuien madruga por ella no se cansa,\npues la encuentra sentada a su puerta.\nMeditar sobre ella es prudencia consumada\ny el que vela por ella pronto se ve libre de preocupaciones.\nPues ella misma va de un lado a otro\nbuscando a los que son dignos de ella;\nlos aborda benigna por los caminos\ny les sale al encuentro en cada pensamiento.",
+      "text": "Lectura del libro de los Proverbios 31, 10-13. 19-20. 30-31\nUna mujer fuerte, ¿quién la hallará?\nSupera en valor a las perlas.\nSu marido se fía de ella,\npues no le faltan riquezas.\nLe trae ganancias, no pérdidas,\ntodos los días de su vida.\nBusca la lana y el lino\ny los trabaja con la destreza de sus manos.\nAplica sus manos al huso,\ncon sus dedos sostiene la rueca.\nAbre sus manos al necesitado\ny tiende sus brazos al pobre.\nEngañosa es la gracia, fugaz la hermosura;\nla que teme al Señor merece alabanza.\nCantadle por el éxito de su trabajo,\nque sus obras la alaben en público.",
       "ref": ""
     },
     "segunda": {
-      "text": "Lectura de la primera carta del apóstol san Pablo a los Tesalonicenses 4, 13-18\nNo queremos que ignoréis, hermanos, la suerte de los difuntos para que no os aflijáis como los que no tienen esperanza.\nPues si creemos que Jesús murió y resucitó, de igual modo Dios llevará con él, por medio de Jesús, a los que han muerto.\nEsto es lo que os decimos apoyados en la palabra del Señor:\nnosotros, los que quedemos hasta la venida del Señor, no precederemos a los que hayan muerto; pues el mismo Señor, a la voz del arcángel y al son de la trompeta divina, descenderá del cielo, y los muertos en Cristo resucitarán en primer lugar; después nosotros, los que vivamos, los que quedemos, seremos llevados con ellos entre nubes al encuentro del Señor, por los aires.\nY así estaremos siempre con el Señor.\nConsolaos, pues, mutuamente con estas palabras.",
+      "text": "Segunda lectura\nLectura de la primera carta del apóstol san Pablo a los Tesalonicenses 5, 1-6\nEn lo referente al tiempo y a las circunstancias, hermanos, no necesitáis que os escriba, pues vosotros sabéis perfectamente que el Día del Señor llegará como un ladrón en la noche. Cuando estén diciendo: «paz y seguridad», entonces, de improviso, les sobrevendrá la ruina, como los dolores de parto a la que está encinta, y no podrán escapar.\nPero vosotros, hermanos, no vivís en tinieblas, de forma que ese día os sorprenda como un ladrón; porque todos sois hijos de la luz e hijos del día; no somos de la noche ni de las tinieblas.\nAsí, pues, no nos entreguemos al sueño como los demás, sino estemos en vela y vivamos sobriamente.",
       "ref": ""
     },
     "salmo": {
-      "text": "Salmo 62, 2abc. 2d-4. 5-6. 7-8\n\nR/. Mi alma está sedienta de ti, Señor, Dios mío.\n\nOh, Dios, tú eres mi Dios, por ti madrugo,\nmi alma está sedienta de ti;\nmi carne tiene ansia de ti,\ncomo tierra reseca, agostada, sin agua. R/.\n\n¡Cómo te contemplaba en el santuario\nviendo tu fuerza y tu gloria!\nTu gracia vale más que la vida,\nte alabarán mis labios. R/.\n\nToda mi vida te bendeciré\ny alzaré las manos invocándote.\nMe saciaré como de enjundia y de manteca,\ny mis labios te alabarán jubilosos. R/.\n\nEn el lecho me acuerdo de ti\ny velando medito en ti,\nporque fuiste mi auxilio,\ny a la sombra de tus alas canto con júbilo. R/.",
+      "text": "Salmo 127, 1-2. 3. 4-5 \n\nR/. Dichoso el que teme al Señor.\n\nDichoso el que teme al Señor\ny sigue sus caminos.\nComerás del fruto de tu trabajo,\nserás dichoso, te irá bien. R/.\n\nTu mujer, como parra fecunda,\nen medio de tu casa;\ntus hijos, como renuevos de olivo,\nalrededor de tu mesa. R/.\n\nEsta es la bendición del hombre\nque teme al Señor.\nQue el Señor te bendiga desde Sion,\nque veas la prosperidad de Jerusalén\ntodos los días de tu vida. R/.",
       "ref": ""
     },
     "evangelio": {
-      "text": "Lectura del santo evangelio según san Mateo 25, 1-13\nEn aquel tiempo, dijo Jesús a sus discípulos esta parábola:\n«Se parecerá el reino de los cielos a diez vírgenes que tomaron sus lámparas y salieron al encuentro del esposo.\nCinco de ellas eran necias y cinco eran prudentes.\nLas necias, al tomar las lámparas, no se proveyeron de aceite; en cambio, las prudentes se llevaron alcuzas de aceite con las lámparas.\nEl esposo tardaba, les entró sueño a todas y se durmieron.\nA medianoche se oyó una voz:\n“¡Qué llega el esposo, salid a su encuentro!”.\nEntonces se despertaron todas aquellas vírgenes y se pusieron a preparar sus lámparas.\nY las necias dijeron a las prudentes:\n“Dadnos de vuestro aceite, que se nos apagan las lámparas”.\nPero las prudentes contestaron:\n“Por si acaso no hay bastante para vosotras y nosotras, mejor es que vayáis a la tienda y os lo compréis”.\nMientras iban a comprarlo, llegó el esposo, y las que estaban preparadas entraron con él al banquete de bodas, y se cerró la puerta.\nMás tarde llegaron también las otras vírgenes, diciendo:\n“Señor, señor, ábrenos”.\nPero él respondió:\n“En verdad os digo que no os conozco”.\nPor tanto, velad, porque no sabéis el día ni la hora».",
+      "text": "Lectura del santo evangelio según san Mateo 25, 14-30\nEn aquel tiempo, dijo Jesús a sus discípulos esta parábola:\n«Un hombre, al irse de viaje, llamó a sus siervos y los dejó al cargo de sus bienes: a uno le dejó cinco talentos, a otro dos, a otro uno, a cada cual según su capacidad; luego se marchó.\nEl que recibió cinco talentos fue enseguida a negociar con ellos y ganó otros cinco. El que recibió dos hizo lo mismo y ganó otros dos.\nEn cambio, el que recibió uno fue a hacer un hoyo en la tierra y escondió el dinero de su señor.\nAl cabo de mucho tiempo viene el señor de aquellos siervos y se pone a ajustar las cuentas con ellos.\nSe acercó el que había recibido cinco talentos y le presentó otros cinco, diciendo:\n“Señor, cinco talentos me dejaste; mira, he ganado otros cinco”.\nSu señor le dijo:\n“Bien, siervo bueno y fiel; como has sido fiel en lo poco, te daré un cargo importante; entra en el gozo de tu señor”.\nSe acercó luego el que había recibido dos talentos y dijo:\n“Señor, dos talentos me dejaste; mira, he ganado otros dos”.\nSu señor le dijo:\n“Bien, siervo bueno y fiel; como has sido fiel en lo poco, te daré un cargo importante; entra en el gozo de tu señor”.\nSe acercó también el que había recibido un talento y dijo:\n“Señor, sabía que eres exigente, que siegas donde no siembras y recoges donde no esparces, tuve miedo y fui a esconder tu talento bajo tierra. Aquí tienes lo tuyo”.\nEl señor le respondió:\n“Eres un siervo negligente y holgazán. ¿Conque sabías que siego donde no siembro y recojo donde no esparzo? Pues debías haber puesto mi dinero en el banco, para que, al volver yo, pudiera recoger lo mío con los intereses. Quitadle el talento y dádselo al que tiene diez. Porque al que tiene se le dará y le sobrará, pero al que no tiene, se le quitará hasta lo que tiene. Y a ese siervo inútil echadlo fuera, a las tinieblas; allí será el llanto y el rechinar de dientes”».",
       "ref": ""
     }
   },
-  "keywords": [
-    {
-      "id": "1793563984560",
-      "text": "\"Palabra clave: VIGILANCIA Mantener el corazón despierto, cuidar la relación con Dios y alimentar la fe cada día, también cuando no sentimos su presencia o las cosas no suceden como esperamos.\"",
-      "date": "2026-11-01T20:13:04.560Z"
-    }
-  ],
+  "keywords": [],
   "comments": [
     {
-      "id": "1793564012988",
-      "text": "Los Padres del Desierto nos enseñan la importancia de la vigilancia interior: vivir despiertos en el corazón, atentos a la presencia de Dios y sin dejar que las preocupaciones nos alejen de Él. En la parábola, las diez vírgenes esperan al esposo, pero no todas están preparadas. Todas se duermen, todas tienen que esperar y todas escuchan el anuncio de su llegada. La diferencia está en el aceite que las prudentes han guardado. El aceite representa aquello que vamos cultivando en nuestra relación con Dios: la oración, el amor, la confianza y la fidelidad cotidiana. No podemos vivir únicamente de la fe de los demás; cada uno necesita cuidar su propia relación con el Señor. A veces esperamos a sentirnos bien, a tener seguridad o a que desaparezcan nuestros miedos para acercarnos a Dios. Sin embargo, Jesús nos invita a mantener encendida la lámpara incluso cuando no vemos con claridad, cuando estamos cansados o cuando parece que el Señor tarda en llegar. Velar no significa vivir angustiados por el futuro, sino aprender a vivir el presente con el corazón abierto a Dios.",
-      "date": "2026-11-01T20:13:32.988Z"
+      "id": "1794210843774",
+      "text": "Los Padres del Desierto nos enseñan que la vida espiritual requiere vigilancia, responsabilidad y confianza en Dios. No se trata de compararnos con los demás, sino de reconocer y cuidar lo que Dios ha puesto en nuestras manos.\n\nEn el Evangelio, los dos primeros servidores reciben los talentos y se ponen a trabajar con ellos. El tercero, en cambio, tiene miedo y esconde el talento bajo tierra.\n\nHay un detalle importante: el tercer servidor no pierde el talento por falta de capacidad, sino porque el miedo le paraliza. Su imagen de un señor exigente condiciona su manera de actuar.\n\nLos Padres del Desierto prestaban mucha atención a los pensamientos que nacen del miedo. Nos enseñan a discernirlos, porque podemos terminar viviendo bajo la influencia de pensamientos que nos hacen escondernos, desconfiar y no dar pasos hacia la vida.\n\nTambién nosotros podemos esconder nuestros talentos cuando pensamos que no somos capaces, que vamos a equivocarnos o que no tenemos suficiente para empezar.\n\nJesús nos invita a no enterrar lo que hemos recibido. No nos pide tener los mismos resultados que los demás, sino ser fieles a lo que hemos recibido y ponerlo al servicio de la vida.\n\nLa fidelidad no consiste en hacerlo todo perfectamente, sino en no permitir que el miedo nos impida vivir y desarrollar lo que Dios ha puesto en nosotros.",
+      "date": "2026-11-09T07:54:03.774Z"
     }
   ],
   "conclusions": [
@@ -966,6 +1004,17 @@
       "emotionSummary": "",
       "spiritSummary": "",
       "archivedAt": "2026-11-01T20:10:55.686Z"
+    },
+    "2026-11-04": {
+      "keywords": [
+        "\"Palabra clave: VIGILANCIA Mantener el corazón despierto, cuidar la relación con Dios y alimentar la fe cada día, también cuando no sentimos su presencia o las cosas no suceden como esperamos.\""
+      ],
+      "comments": [
+        "Los Padres del Desierto nos enseñan la importancia de la vigilancia interior: vivir despiertos en el corazón, atentos a la presencia de Dios y sin dejar que las preocupaciones nos alejen de Él. En la parábola, las diez vírgenes esperan al esposo, pero no todas están preparadas. Todas se duermen, todas tienen que esperar y todas escuchan el anuncio de su llegada. La diferencia está en el aceite que las prudentes han guardado. El aceite representa aquello que vamos cultivando en nuestra relación con Dios: la oración, el amor, la confianza y la fidelidad cotidiana. No podemos vivir únicamente de la fe de los demás; cada uno necesita cuidar su propia relación con el Señor. A veces esperamos a sentirnos bien, a tener seguridad o a que desaparezcan nuestros miedos para acercarnos a Dios. Sin embargo, Jesús nos invita a mantener encendida la lámpara incluso cuando no vemos con claridad, cuando estamos cansados o cuando parece que el Señor tarda en llegar. Velar no significa vivir angustiados por el futuro, sino aprender a vivir el presente con el corazón abierto a Dios."
+      ],
+      "emotionSummary": "",
+      "spiritSummary": "",
+      "archivedAt": "2026-11-09T07:50:56.389Z"
     }
   },
   "calNotes": {
@@ -982,7 +1031,7 @@
       }
     ]
   },
-  "preguntaVital": "¿Qué estoy haciendo hoy para mantener encendida mi lámpara y alimentar mi relación con Dios mientras espero al Señor? // ¿Qué cosas de mi vida me están distrayendo o alejando de Dios, impidiéndome estar preparado para encontrarme con Él?",
+  "preguntaVital": "1. ¿Qué talentos o capacidades que Dios me ha confiado estoy escondiendo por miedo a equivocarme, fracasar o no estar a la altura?\n\n2. ¿Estoy poniendo al servicio de Dios y de los demás lo que he recibido, o estoy esperando tener más seguridad y garantías antes de dar el paso?",
   "calMonth": 8,
   "calYear": 2026,
   "asistencia": {
@@ -1021,7 +1070,7 @@
   ],
   "videoLink": "",
   "videoWhen": "",
-  "prayerWeekDate": "2026-11-05",
+  "prayerWeekDate": "2026-11-12",
   "githubJsonUrl": "https://jcralcaraz68-cyber.github.io/Jose-y-Maria/datos.json",
   "poso": [],
   "meetingDay": 4,
@@ -1055,16 +1104,16 @@
   "absences": [],
   "liturgy": {
     "gospel": {
-      "ref": "Lc 10,25-37",
-      "title": "El buen samaritano",
-      "text": "Un letrado preguntó a Jesús: «¿Qué tengo que hacer para heredar la vida eterna?» Jesús le dijo: «Amarás al Señor tu Dios con todo tu corazón y a tu prójimo como a ti mismo.» El letrado preguntó: «¿Y quién es mi prójimo?»"
+      "ref": "Mt 5,1-12",
+      "title": "Las bienaventuranzas",
+      "text": "Jesús subió al monte y enseñaba: Dichosos los pobres de espíritu, porque de ellos es el reino de los cielos. Dichosos los que lloran, porque ellos serán consolados. Dichosos los mansos, porque ellos heredarán la tierra. Dichosos los misericordiosos, porque ellos alcanzarán misericordia."
     },
     "psalm": {
-      "ref": "Sal 117",
-      "antiphon": "Alabad al Señor porque es bueno.",
-      "text": "Dad gracias al Señor porque es bueno,\nporque es eterna su misericordia."
+      "ref": "Sal 22",
+      "antiphon": "El Señor es mi pastor, nada me falta.",
+      "text": "El Señor es mi pastor, nada me falta:\nen verdes praderas me hace recostar."
     },
-    "sunday": "2026-10-31T23:00:00.000Z"
+    "sunday": "2026-11-07T23:00:00.000Z"
   },
   "weekOrder": [
     "1783274652807",
