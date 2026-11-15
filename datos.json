@@ -778,61 +778,88 @@
   },
   "notes": [
     {
-      "id": "1794211710931",
+      "id": "1794741431941",
       "title": "",
-      "body": "El Sábado 14 tendremos después de la Eucaristía tendremos cine.",
+      "body": "Película La Cabaña",
       "link": "",
-      "date": "2026-11-09T08:08:30.931Z"
+      "date": "2026-11-15T11:17:11.941Z"
     },
     {
-      "id": "1794211009826",
-      "title": "",
-      "body": "Esta semana celebramos la Eucaristía, el Jueves 12 después tendremos un compartir, en los salones.",
+      "id": "1794741403123",
+      "title": "Plan Pastoral Diócesis",
+      "body": "Comentar los dos archivos",
       "link": "",
-      "date": "2026-11-09T07:56:49.826Z"
+      "date": "2026-11-15T11:16:43.123Z"
+    },
+    {
+      "id": "1794741347689",
+      "title": "",
+      "body": "Guitarra Reinaldo",
+      "link": "",
+      "date": "2026-11-15T11:15:47.689Z"
+    },
+    {
+      "id": "1794741327981",
+      "title": "",
+      "body": "Lotería de Navidad Archidona",
+      "link": "",
+      "date": "2026-11-15T11:15:27.981Z"
+    },
+    {
+      "id": "1794741305580",
+      "title": "Cena Navidad",
+      "body": "Calendario, organizar Cena de Navidad",
+      "link": "",
+      "date": "2026-11-15T11:15:05.580Z"
     }
   ],
   "peticiones": [
     {
-      "id": "1794211031400",
-      "text": "Señor, ayúdame a reconocer los talentos que me has dado. Que no me compare con los demás ni desprecie lo que he recibido, sino que aprenda a valorarlo y desarrollarlo.",
-      "date": "2026-11-09T07:57:11.400Z"
+      "id": "1794740955863",
+      "text": "Señor, abre nuestros ojos para reconocerte en las personas que sufren, están solas o necesitan nuestra ayuda.",
+      "date": "2026-11-15T11:09:15.863Z"
     },
     {
-      "id": "1794211045516",
-      "text": "Jesús, libérame del miedo que me paraliza. Ayúdame a no esconderme detrás de mis inseguridades, mis pensamientos y mi necesidad de tenerlo todo controlado.",
-      "date": "2026-11-09T07:57:25.516Z"
+      "id": "1794740969665",
+      "text": "Señor, líbranos de la indiferencia y del egoísmo, y danos un corazón sensible ante las necesidades de los demás.",
+      "date": "2026-11-15T11:09:29.665Z"
     },
     {
-      "id": "1794211062858",
-      "text": "Espíritu Santo, enséñame a ser fiel en lo pequeño. Que utilice mis capacidades con amor, generosidad y confianza, sin vivir pendiente de los resultados.",
-      "date": "2026-11-09T07:57:42.858Z"
+      "id": "1794740986113",
+      "text": "Señor, haz de nuestra comunidad un lugar de acogida, servicio y fraternidad, donde nadie se sienta solo y sepamos cuidar unos de otros.",
+      "date": "2026-11-15T11:09:46.113Z"
     }
   ],
   "readings": {
     "primera": {
-      "text": "Lectura del libro de los Proverbios 31, 10-13. 19-20. 30-31\nUna mujer fuerte, ¿quién la hallará?\nSupera en valor a las perlas.\nSu marido se fía de ella,\npues no le faltan riquezas.\nLe trae ganancias, no pérdidas,\ntodos los días de su vida.\nBusca la lana y el lino\ny los trabaja con la destreza de sus manos.\nAplica sus manos al huso,\ncon sus dedos sostiene la rueca.\nAbre sus manos al necesitado\ny tiende sus brazos al pobre.\nEngañosa es la gracia, fugaz la hermosura;\nla que teme al Señor merece alabanza.\nCantadle por el éxito de su trabajo,\nque sus obras la alaben en público.",
+      "text": "Lectura de la profecía de Ezequiel 34, 11-12. 15-17\nEsto dice el Señor Dios:\n«Yo mismo buscaré mi rebaño\ny lo cuidaré.\nComo cuida un pastor de su grey dispersa,\nasí cuidaré yo de mi rebaño\ny lo libraré,\nsacándolo de los lugares por donde se había dispersado\nun día de oscuros nubarrones.\nYo mismo apacentaré mis ovejas\ny las haré reposar\n—oráculo del Señor Dios—.\nBuscaré la oveja perdida,\nrecogeré a la descarriada;\nvendaré a las heridas;\nfortaleceré a la enferma;\npero a la que está fuerte y robusta la guardaré:\nla apacentaré con justicia».\nEn cuanto a vosotros, mi rebaño,\nesto dice el Señor Dios:\n«Yo voy a juzgar entre oveja y oveja,\nentre carnero y macho cabrío».",
       "ref": ""
     },
     "segunda": {
-      "text": "Segunda lectura\nLectura de la primera carta del apóstol san Pablo a los Tesalonicenses 5, 1-6\nEn lo referente al tiempo y a las circunstancias, hermanos, no necesitáis que os escriba, pues vosotros sabéis perfectamente que el Día del Señor llegará como un ladrón en la noche. Cuando estén diciendo: «paz y seguridad», entonces, de improviso, les sobrevendrá la ruina, como los dolores de parto a la que está encinta, y no podrán escapar.\nPero vosotros, hermanos, no vivís en tinieblas, de forma que ese día os sorprenda como un ladrón; porque todos sois hijos de la luz e hijos del día; no somos de la noche ni de las tinieblas.\nAsí, pues, no nos entreguemos al sueño como los demás, sino estemos en vela y vivamos sobriamente.",
+      "text": "Lectura de la primera carta del apóstol san Pablo a los Corintios 15, 20-26. 28\nHermanos:\nCristo ha resucitado de entre los muertos y es primicia de los que han muerto.\nSi por un hombre vino la muerte, por un hombre vino la resurrección. Pues lo mismo que en Adán mueren todos, así en Cristo todos serán vivificados.\nPero cada uno en su puesto: primero Cristo, como primicia; después todos los que son de Cristo, en su venida; después el final, cuando Cristo entregue el reino a Dios Padre, cuando haya aniquilado todo principado, poder y fuerza.\nPues Cristo tiene que reinar hasta que ponga a todos sus enemigos bajo sus pies. El último enemigo en ser destruido será la muerte.\nCuando le haya sometido todo, entonces también el mismo Hijo se someterá al que se lo había sometido todo.\nAsí Dios será todo en todos.",
       "ref": ""
     },
     "salmo": {
-      "text": "Salmo 127, 1-2. 3. 4-5 \n\nR/. Dichoso el que teme al Señor.\n\nDichoso el que teme al Señor\ny sigue sus caminos.\nComerás del fruto de tu trabajo,\nserás dichoso, te irá bien. R/.\n\nTu mujer, como parra fecunda,\nen medio de tu casa;\ntus hijos, como renuevos de olivo,\nalrededor de tu mesa. R/.\n\nEsta es la bendición del hombre\nque teme al Señor.\nQue el Señor te bendiga desde Sion,\nque veas la prosperidad de Jerusalén\ntodos los días de tu vida. R/.",
+      "text": "Salmo 22, 1-3a. 3b-4. 5. 6 R/. El Señor es mi pastor, nada me falta.\nEl Señor es mi pastor, nada me falta:\nen verdes praderas me hace recostar. R/.\n\nMe conduce hacia fuentes tranquilas\ny repara mis fuerzas;\nme guía por el sendero justo,\npor el honor de su nombre. R/.\n\nPreparas una mesa ante mí,\nenfrente de mis enemigos;\nme unges la cabeza con perfume,\ny mi copa rebosa. R/.\n\nTu bondad y tu misericordia me acompañan\ntodos los días de mi vida,\ny habitaré en la casa del Señor\npor años sin término. R/.",
       "ref": ""
     },
     "evangelio": {
-      "text": "Lectura del santo evangelio según san Mateo 25, 14-30\nEn aquel tiempo, dijo Jesús a sus discípulos esta parábola:\n«Un hombre, al irse de viaje, llamó a sus siervos y los dejó al cargo de sus bienes: a uno le dejó cinco talentos, a otro dos, a otro uno, a cada cual según su capacidad; luego se marchó.\nEl que recibió cinco talentos fue enseguida a negociar con ellos y ganó otros cinco. El que recibió dos hizo lo mismo y ganó otros dos.\nEn cambio, el que recibió uno fue a hacer un hoyo en la tierra y escondió el dinero de su señor.\nAl cabo de mucho tiempo viene el señor de aquellos siervos y se pone a ajustar las cuentas con ellos.\nSe acercó el que había recibido cinco talentos y le presentó otros cinco, diciendo:\n“Señor, cinco talentos me dejaste; mira, he ganado otros cinco”.\nSu señor le dijo:\n“Bien, siervo bueno y fiel; como has sido fiel en lo poco, te daré un cargo importante; entra en el gozo de tu señor”.\nSe acercó luego el que había recibido dos talentos y dijo:\n“Señor, dos talentos me dejaste; mira, he ganado otros dos”.\nSu señor le dijo:\n“Bien, siervo bueno y fiel; como has sido fiel en lo poco, te daré un cargo importante; entra en el gozo de tu señor”.\nSe acercó también el que había recibido un talento y dijo:\n“Señor, sabía que eres exigente, que siegas donde no siembras y recoges donde no esparces, tuve miedo y fui a esconder tu talento bajo tierra. Aquí tienes lo tuyo”.\nEl señor le respondió:\n“Eres un siervo negligente y holgazán. ¿Conque sabías que siego donde no siembro y recojo donde no esparzo? Pues debías haber puesto mi dinero en el banco, para que, al volver yo, pudiera recoger lo mío con los intereses. Quitadle el talento y dádselo al que tiene diez. Porque al que tiene se le dará y le sobrará, pero al que no tiene, se le quitará hasta lo que tiene. Y a ese siervo inútil echadlo fuera, a las tinieblas; allí será el llanto y el rechinar de dientes”».",
+      "text": "Lectura del santo evangelio según san Mateo 25, 31-46\nEn aquel tiempo, dijo Jesús a sus discípulos:\n«Cuando venga en su gloria el Hijo del hombre, y todos los ángeles con él, se sentará en el trono de su gloria y serán reunidas ante él todas las naciones.\nÉl separará a unos de otros, como un pastor separa las ovejas de las cabras.\nY pondrá las ovejas a su derecha y las cabras a su izquierda. Entonces dirá el rey a los de su derecha:\n“Venid vosotros, benditos de mi Padre; heredad el reino preparado para vosotros desde la creación del mundo. Porque tuve hambre y me disteis de comer, tuve sed y me disteis de beber, fui forastero y me hospedasteis, estuve desnudo y me vestisteis, enfermo y me visitasteis, en la cárcel y vinisteis a verme”.\nEntonces los justos le contestarán:\n“Señor, ¿cuándo te vimos con hambre y te alimentamos, o con sed y te dimos de beber?; ¿cuándo te vimos forastero y te hospedamos, o desnudo y te vestimos?; ¿cuándo te vimos enfermo o en la cárcel y fuimos a verte?”.\nY el rey les dirá:\n“En verdad os digo que cada vez que lo hicisteis con uno de estos, mis hermanos más pequeños, conmigo lo hicisteis”.\nEntonces dirá a los de su izquierda:\n“Apartaos de mí, malditos, id al fuego eterno preparado para el diablo y sus ángeles. Porque tuve hambre y no me disteis de comer, tuve sed y no me disteis de beber, fui forastero y no me hospedasteis, estuve desnudo y no me vestisteis, enfermo y en la cárcel y no me visitasteis”. Entonces también estos contestarán:\n“Señor, ¿cuándo te vimos con hambre o con sed, o forastero o desnudo, o enfermo o en la cárcel, y no te asistimos?”.\nÉl les replicará:\n“En verdad os digo: lo que no hicisteis con uno de estos, los más pequeños, tampoco lo hicisteis conmigo”.\nY estos irán al castigo eterno y los justos a la vida eterna».",
       "ref": ""
     }
   },
-  "keywords": [],
+  "keywords": [
+    {
+      "id": "1794741115241",
+      "text": "\"MISERICORDIA — reconocer a Jesús en el hermano y hacer visible el amor de Dios mediante nuestras acciones.\"",
+      "date": "2026-11-15T11:11:55.241Z"
+    }
+  ],
   "comments": [
     {
-      "id": "1794210843774",
-      "text": "Los Padres del Desierto nos enseñan que la vida espiritual requiere vigilancia, responsabilidad y confianza en Dios. No se trata de compararnos con los demás, sino de reconocer y cuidar lo que Dios ha puesto en nuestras manos.\n\nEn el Evangelio, los dos primeros servidores reciben los talentos y se ponen a trabajar con ellos. El tercero, en cambio, tiene miedo y esconde el talento bajo tierra.\n\nHay un detalle importante: el tercer servidor no pierde el talento por falta de capacidad, sino porque el miedo le paraliza. Su imagen de un señor exigente condiciona su manera de actuar.\n\nLos Padres del Desierto prestaban mucha atención a los pensamientos que nacen del miedo. Nos enseñan a discernirlos, porque podemos terminar viviendo bajo la influencia de pensamientos que nos hacen escondernos, desconfiar y no dar pasos hacia la vida.\n\nTambién nosotros podemos esconder nuestros talentos cuando pensamos que no somos capaces, que vamos a equivocarnos o que no tenemos suficiente para empezar.\n\nJesús nos invita a no enterrar lo que hemos recibido. No nos pide tener los mismos resultados que los demás, sino ser fieles a lo que hemos recibido y ponerlo al servicio de la vida.\n\nLa fidelidad no consiste en hacerlo todo perfectamente, sino en no permitir que el miedo nos impida vivir y desarrollar lo que Dios ha puesto en nosotros.",
-      "date": "2026-11-09T07:54:03.774Z"
+      "id": "1794741208719",
+      "text": "Los Padres del Desierto enseñaban que para encontrar a Dios debemos aprender a mirar con atención nuestro propio corazón y descubrir su presencia en los demás. Este Evangelio nos revela algo fundamental: Dios no está solamente en la oración, en el templo o en los momentos de recogimiento; también está en el hermano que sufre y necesita de nosotros. A veces buscamos a Dios en grandes experiencias espirituales, mientras pasamos de largo ante las pequeñas necesidades de quienes tenemos cerca. Dar de comer, escuchar, acompañar, visitar o acoger son gestos que pueden parecer sencillos, pero en ellos se hace presente el amor de Dios. La espiritualidad del desierto nos invita a vencer el egoísmo, la indiferencia y el juicio, para alcanzar un corazón compasivo. No se trata únicamente de hablar del amor de Dios, sino de hacerlo visible con nuestra vida. Quizá la verdadera pregunta no sea cuánto rezamos o cuánto sabemos de Dios, sino si somos capaces de reconocer a Jesús en la persona que hoy necesita nuestra ayuda. Porque, al final, el amor que hemos recibido de Dios se hace verdadero cuando somos capaces de entregarlo a los demás.",
+      "date": "2026-11-15T11:13:28.719Z"
     }
   ],
   "conclusions": [
@@ -1015,6 +1042,15 @@
       "emotionSummary": "",
       "spiritSummary": "",
       "archivedAt": "2026-11-09T07:50:56.389Z"
+    },
+    "2026-11-11": {
+      "keywords": [],
+      "comments": [
+        "Los Padres del Desierto nos enseñan que la vida espiritual requiere vigilancia, responsabilidad y confianza en Dios. No se trata de compararnos con los demás, sino de reconocer y cuidar lo que Dios ha puesto en nuestras manos.\n\nEn el Evangelio, los dos primeros servidores reciben los talentos y se ponen a trabajar con ellos. El tercero, en cambio, tiene miedo y esconde el talento bajo tierra.\n\nHay un detalle importante: el tercer servidor no pierde el talento por falta de capacidad, sino porque el miedo le paraliza. Su imagen de un señor exigente condiciona su manera de actuar.\n\nLos Padres del Desierto prestaban mucha atención a los pensamientos que nacen del miedo. Nos enseñan a discernirlos, porque podemos terminar viviendo bajo la influencia de pensamientos que nos hacen escondernos, desconfiar y no dar pasos hacia la vida.\n\nTambién nosotros podemos esconder nuestros talentos cuando pensamos que no somos capaces, que vamos a equivocarnos o que no tenemos suficiente para empezar.\n\nJesús nos invita a no enterrar lo que hemos recibido. No nos pide tener los mismos resultados que los demás, sino ser fieles a lo que hemos recibido y ponerlo al servicio de la vida.\n\nLa fidelidad no consiste en hacerlo todo perfectamente, sino en no permitir que el miedo nos impida vivir y desarrollar lo que Dios ha puesto en nosotros."
+      ],
+      "emotionSummary": "",
+      "spiritSummary": "",
+      "archivedAt": "2026-11-15T11:08:51.108Z"
     }
   },
   "calNotes": {
@@ -1031,7 +1067,7 @@
       }
     ]
   },
-  "preguntaVital": "1. ¿Qué talentos o capacidades que Dios me ha confiado estoy escondiendo por miedo a equivocarme, fracasar o no estar a la altura?\n\n2. ¿Estoy poniendo al servicio de Dios y de los demás lo que he recibido, o estoy esperando tener más seguridad y garantías antes de dar el paso?",
+  "preguntaVital": "¿Soy capaz de reconocer a Jesús en las personas que sufren y necesitan mi ayuda? // ¿Cuántas veces paso de largo ante las necesidades de alguien porque estoy demasiado ocupado con mis propias cosas?",
   "calMonth": 8,
   "calYear": 2026,
   "asistencia": {
@@ -1104,16 +1140,16 @@
   "absences": [],
   "liturgy": {
     "gospel": {
-      "ref": "Mt 5,1-12",
-      "title": "Las bienaventuranzas",
-      "text": "Jesús subió al monte y enseñaba: Dichosos los pobres de espíritu, porque de ellos es el reino de los cielos. Dichosos los que lloran, porque ellos serán consolados. Dichosos los mansos, porque ellos heredarán la tierra. Dichosos los misericordiosos, porque ellos alcanzarán misericordia."
+      "ref": "Jn 14,1-12",
+      "title": "Yo soy el camino, la verdad y la vida",
+      "text": "Jesús dijo: «No se turbe vuestro corazón. Creéis en Dios: creed también en mí. En la casa de mi Padre hay muchas moradas. Voy a prepararos un lugar. Yo soy el camino, la verdad y la vida.»"
     },
     "psalm": {
-      "ref": "Sal 22",
-      "antiphon": "El Señor es mi pastor, nada me falta.",
-      "text": "El Señor es mi pastor, nada me falta:\nen verdes praderas me hace recostar."
+      "ref": "Sal 33",
+      "antiphon": "Gustad y ved qué bueno es el Señor.",
+      "text": "Bendigo al Señor en todo momento,\nsu alabanza está siempre en mi boca."
     },
-    "sunday": "2026-11-07T23:00:00.000Z"
+    "sunday": "2026-11-14T23:00:00.000Z"
   },
   "weekOrder": [
     "1783274652807",
