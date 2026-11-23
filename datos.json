@@ -659,7 +659,7 @@
     "2": true
   },
   "fuerzaUnlocked": {},
-  "liturgicalMode": "ordinario",
+  "liturgicalMode": "auto",
   "katFontScale": 1.15,
   "katImages": {
     "camino": {},
@@ -790,81 +790,55 @@
       "body": "Comentar los dos archivos",
       "link": "",
       "date": "2026-11-15T11:16:43.123Z"
-    },
-    {
-      "id": "1794741347689",
-      "title": "",
-      "body": "Guitarra Reinaldo",
-      "link": "",
-      "date": "2026-11-15T11:15:47.689Z"
-    },
-    {
-      "id": "1794741327981",
-      "title": "",
-      "body": "Lotería de Navidad Archidona",
-      "link": "",
-      "date": "2026-11-15T11:15:27.981Z"
-    },
-    {
-      "id": "1794741305580",
-      "title": "Cena Navidad",
-      "body": "Calendario, organizar Cena de Navidad",
-      "link": "",
-      "date": "2026-11-15T11:15:05.580Z"
     }
   ],
   "peticiones": [
     {
-      "id": "1794740955863",
-      "text": "Señor, abre nuestros ojos para reconocerte en las personas que sufren, están solas o necesitan nuestra ayuda.",
-      "date": "2026-11-15T11:09:15.863Z"
+      "id": "1795449492594",
+      "text": "Señor, despierta nuestro corazón para reconocerte presente en nuestra vida y en las personas que nos rodean.",
+      "date": "2026-11-23T15:58:12.594Z"
     },
     {
-      "id": "1794740969665",
-      "text": "Señor, líbranos de la indiferencia y del egoísmo, y danos un corazón sensible ante las necesidades de los demás.",
-      "date": "2026-11-15T11:09:29.665Z"
+      "id": "1795449512309",
+      "text": "Señor, ayúdanos a no vivir distraídos ni encerrados en nuestras preocupaciones, sino atentos a tu Palabra y a las necesidades de los demás.",
+      "date": "2026-11-23T15:58:32.309Z"
     },
     {
-      "id": "1794740986113",
-      "text": "Señor, haz de nuestra comunidad un lugar de acogida, servicio y fraternidad, donde nadie se sienta solo y sepamos cuidar unos de otros.",
-      "date": "2026-11-15T11:09:46.113Z"
+      "id": "1795449531832",
+      "text": "Señor, danos un corazón vigilante, confiado y disponible para amar, de modo que nos encuentres viviendo según tu voluntad.",
+      "date": "2026-11-23T15:58:51.832Z"
     }
   ],
   "readings": {
     "primera": {
-      "text": "Lectura de la profecía de Ezequiel 34, 11-12. 15-17\nEsto dice el Señor Dios:\n«Yo mismo buscaré mi rebaño\ny lo cuidaré.\nComo cuida un pastor de su grey dispersa,\nasí cuidaré yo de mi rebaño\ny lo libraré,\nsacándolo de los lugares por donde se había dispersado\nun día de oscuros nubarrones.\nYo mismo apacentaré mis ovejas\ny las haré reposar\n—oráculo del Señor Dios—.\nBuscaré la oveja perdida,\nrecogeré a la descarriada;\nvendaré a las heridas;\nfortaleceré a la enferma;\npero a la que está fuerte y robusta la guardaré:\nla apacentaré con justicia».\nEn cuanto a vosotros, mi rebaño,\nesto dice el Señor Dios:\n«Yo voy a juzgar entre oveja y oveja,\nentre carnero y macho cabrío».",
+      "text": "Lectura del libro de Isaías 63, 16b-17. 19b; 64, 2b-7\nTú, Señor, eres nuestro padre,\ntu nombre desde siempre es «nuestro Libertador».\n¿Por qué nos extravías, Señor, de tus caminos,\ny endureces nuestro corazón para que no te tema?\nVuélvete, por amor a tus siervos\ny a las tribus de tu heredad.\n¡Ojalá rasgases el cielo y descendieses!\nEn tu presencia se estremecerían las montañas.\n«Descendiste, y las montañas se estremecieron».\nJamás se oyó ni se escuchó,\nni ojo vio un Dios, fuera de ti,\nque hiciera tanto por quien espera en él.\nSales al encuentro\nde quien practica con alegría la justicia\ny, andando en tus caminos, se acuerda de ti.\nHe aquí que tu estabas airado\ny nosotros hemos pecado.\nPero en los caminos de antiguo\nseremos salvados.\nTodos éramos impuros,\nnuestra justicia era un vestido manchado;\ntodos nos marchitábamos como hojas,\nnuestras culpas nos arrebataban como el viento.\nNadie invocaba tu nombre,\nnadie salía del letargo para adherirse a ti;\npues nos ocultabas tu rostro\ny nos entregabas al poder de nuestra culpa.\nY, sin embargo, Señor, tú eres nuestro padre,\nnosotros la arcilla y tú nuestro alfarero:\ntodos somos obra de tu mano.",
       "ref": ""
     },
     "segunda": {
-      "text": "Lectura de la primera carta del apóstol san Pablo a los Corintios 15, 20-26. 28\nHermanos:\nCristo ha resucitado de entre los muertos y es primicia de los que han muerto.\nSi por un hombre vino la muerte, por un hombre vino la resurrección. Pues lo mismo que en Adán mueren todos, así en Cristo todos serán vivificados.\nPero cada uno en su puesto: primero Cristo, como primicia; después todos los que son de Cristo, en su venida; después el final, cuando Cristo entregue el reino a Dios Padre, cuando haya aniquilado todo principado, poder y fuerza.\nPues Cristo tiene que reinar hasta que ponga a todos sus enemigos bajo sus pies. El último enemigo en ser destruido será la muerte.\nCuando le haya sometido todo, entonces también el mismo Hijo se someterá al que se lo había sometido todo.\nAsí Dios será todo en todos.",
+      "text": "Lectura de la primera carta del apóstol san Pablo a los Corintios 1, 3-9\nHermanos:\nA vosotros gracia y paz de parte de Dios nuestro Padre y del Señor Jesucristo.\nDoy gracias a mi Dios continuamente por vosotros, por la gracia de Dios que se os ha dado en Cristo Jesús; pues en él habéis sido enriquecidos en todo: en toda palabra y en toda ciencia; porque en vosotros se ha probado el testimonio de Cristo, de modo que no carecéis de ningún don gratuito, mientras aguardáis la manifestación de nuestro Señor Jesucristo.\nÉl os mantendrá firmes hasta el final, para que seáis irreprensibles el día de nuestro Señor Jesucristo.\nFiel es Dios, el cual os llamó a la comunión con su Hijo, Jesucristo nuestro Señor.",
       "ref": ""
     },
     "salmo": {
-      "text": "Salmo 22, 1-3a. 3b-4. 5. 6 R/. El Señor es mi pastor, nada me falta.\nEl Señor es mi pastor, nada me falta:\nen verdes praderas me hace recostar. R/.\n\nMe conduce hacia fuentes tranquilas\ny repara mis fuerzas;\nme guía por el sendero justo,\npor el honor de su nombre. R/.\n\nPreparas una mesa ante mí,\nenfrente de mis enemigos;\nme unges la cabeza con perfume,\ny mi copa rebosa. R/.\n\nTu bondad y tu misericordia me acompañan\ntodos los días de mi vida,\ny habitaré en la casa del Señor\npor años sin término. R/.",
+      "text": "Salmo 79, 2ac y 3b. 15-16. 18-19 \nOh, Dios, restáuranos, que brille tu rostro y nos salve.\n\nPastor de Israel, escucha;\ntú que te sientas sobre querubines, resplandece;\ndespierta tu poder y ven a salvarnos. R/.\n\nDios de los ejércitos, vuélvete:\nmira desde el cielo, fíjate,\nven a visitar tu viña.\nCuida la cepa que tu diestra plantó,\ny al hijo del hombre que tú has fortalecido. R/.\n\nQue tu mano proteja a tu escogido,\nal hombre que tú fortaleciste.\nNo nos alejaremos de ti:\ndanos vida, para que invoquemos tu nombre. R/.",
       "ref": ""
     },
     "evangelio": {
-      "text": "Lectura del santo evangelio según san Mateo 25, 31-46\nEn aquel tiempo, dijo Jesús a sus discípulos:\n«Cuando venga en su gloria el Hijo del hombre, y todos los ángeles con él, se sentará en el trono de su gloria y serán reunidas ante él todas las naciones.\nÉl separará a unos de otros, como un pastor separa las ovejas de las cabras.\nY pondrá las ovejas a su derecha y las cabras a su izquierda. Entonces dirá el rey a los de su derecha:\n“Venid vosotros, benditos de mi Padre; heredad el reino preparado para vosotros desde la creación del mundo. Porque tuve hambre y me disteis de comer, tuve sed y me disteis de beber, fui forastero y me hospedasteis, estuve desnudo y me vestisteis, enfermo y me visitasteis, en la cárcel y vinisteis a verme”.\nEntonces los justos le contestarán:\n“Señor, ¿cuándo te vimos con hambre y te alimentamos, o con sed y te dimos de beber?; ¿cuándo te vimos forastero y te hospedamos, o desnudo y te vestimos?; ¿cuándo te vimos enfermo o en la cárcel y fuimos a verte?”.\nY el rey les dirá:\n“En verdad os digo que cada vez que lo hicisteis con uno de estos, mis hermanos más pequeños, conmigo lo hicisteis”.\nEntonces dirá a los de su izquierda:\n“Apartaos de mí, malditos, id al fuego eterno preparado para el diablo y sus ángeles. Porque tuve hambre y no me disteis de comer, tuve sed y no me disteis de beber, fui forastero y no me hospedasteis, estuve desnudo y no me vestisteis, enfermo y en la cárcel y no me visitasteis”. Entonces también estos contestarán:\n“Señor, ¿cuándo te vimos con hambre o con sed, o forastero o desnudo, o enfermo o en la cárcel, y no te asistimos?”.\nÉl les replicará:\n“En verdad os digo: lo que no hicisteis con uno de estos, los más pequeños, tampoco lo hicisteis conmigo”.\nY estos irán al castigo eterno y los justos a la vida eterna».",
+      "text": "Lectura del santo evangelio según san Marcos 13, 33-37\nEn aquel tiempo, dijo Jesús a sus discípulos:\n«Estad atentos, vigilad: pues no sabéis cuándo es el momento.\nEs igual que un hombre que se fue de viaje, y dejó su casa y dio a cada uno de sus criados su tarea, encargando al portero que velara.\nVelad entonces, pues no sabéis cuándo vendrá el señor de la casa, si al atardecer, o a medianoche, o al canto del gallo, o al amanecer: no sea que venga inesperadamente y os encuentre dormidos.\nLo que os digo a vosotros, lo digo a todos: ¡Velad!».",
       "ref": ""
     }
   },
   "keywords": [
     {
-      "id": "1794741115241",
-      "text": "\"MISERICORDIA — reconocer a Jesús en el hermano y hacer visible el amor de Dios mediante nuestras acciones.\"",
-      "date": "2026-11-15T11:11:55.241Z"
+      "id": "1795449455438",
+      "text": "VELAR: Mantener el corazón despierto, reconocer la presencia de Dios en lo cotidiano y vivir cada día con amor y disponibilidad.",
+      "date": "2026-11-23T15:57:35.438Z"
     }
   ],
   "comments": [
     {
-      "id": "1794741208719",
-      "text": "Los Padres del Desierto enseñaban que para encontrar a Dios debemos aprender a mirar con atención nuestro propio corazón y descubrir su presencia en los demás. Este Evangelio nos revela algo fundamental: Dios no está solamente en la oración, en el templo o en los momentos de recogimiento; también está en el hermano que sufre y necesita de nosotros. A veces buscamos a Dios en grandes experiencias espirituales, mientras pasamos de largo ante las pequeñas necesidades de quienes tenemos cerca. Dar de comer, escuchar, acompañar, visitar o acoger son gestos que pueden parecer sencillos, pero en ellos se hace presente el amor de Dios. La espiritualidad del desierto nos invita a vencer el egoísmo, la indiferencia y el juicio, para alcanzar un corazón compasivo. No se trata únicamente de hablar del amor de Dios, sino de hacerlo visible con nuestra vida. Quizá la verdadera pregunta no sea cuánto rezamos o cuánto sabemos de Dios, sino si somos capaces de reconocer a Jesús en la persona que hoy necesita nuestra ayuda. Porque, al final, el amor que hemos recibido de Dios se hace verdadero cuando somos capaces de entregarlo a los demás.",
-      "date": "2026-11-15T11:13:28.719Z"
-    },
-    {
-      "id": "1794932830168",
-      "text": "La misericordia de Dios: Dios no quiere condenar al hombre, sino rescatarlo. Su deseo es sanar y transformar nuestro corazón. - La libertad humana: El amor de Dios no se impone ni anula nuestra libertad. Nos invita a abrirnos a su amor y dejarnos transformar. Eso es lo VITAl dejarnos transformar por su amor, pero necesitamos una palabra que nos espabile que nos haga conscientes, quizá algunas veces solo una palabra dura nos hace convertirnos, que no es lo mismo que proponerse a amar o ser bueno solo Dios cambia tu corazón de piedra por una de carne eso dice el Señor.- vivir con un corazón de piedra es vivir con la amargura y la desesperación es el llanto y rechinar de dientes, no vivimos desde esta la realidad, Nuestra responsabilidad: No basta con sentirnos amados por Dios; estamos llamados ojo llamados y capacitados  a transmitir ese amor, acogiendo, acompañando y cuidando al hermano. Mi conclusión: No quiero entender este Evangelio desde el miedo a la condena, este miedo aumenta la frustración el miedo y la mentira, y sobre todo hace de crear una espiritualidad de rentabilidad de imagen, de religiosidad, entremos en la humildad, Señor tú sabes como soy dice el publicano con la cabeza agachada, tú eres el Señor y no yo dice el buen ladrón vivir y pedir la confianza en un Dios que siempre busca, acoge y quiere rescatarnos. La conversión no nace del miedo, sino de dejarnos amar para aprender a amar.",
-      "date": "2026-11-17T16:27:10.168Z"
+      "id": "1795449365708",
+      "text": "Jesús nos invita a velar, es decir, a vivir despiertos interiormente. Los Padres del Desierto daban mucha importancia a la vigilancia del corazón: reconocer qué pensamientos, sentimientos y deseos nos acercan a Dios y cuáles nos distraen de Él.\n\nEstar dormidos no significa solamente estar distraídos; también podemos vivir dormidos cuando nos acostumbramos a la indiferencia, dejamos de amar o vivimos pendientes de nuestras preocupaciones, olvidando lo esencial.\n\nVelar es vivir el presente con confianza, atentos a Dios y disponibles para amar. No se trata de tener miedo a cuándo llegará el Señor, sino de procurar que nos encuentre con el corazón abierto.",
+      "date": "2026-11-23T15:56:05.708Z"
     }
   ],
   "conclusions": [
@@ -1056,6 +1030,18 @@
       "emotionSummary": "",
       "spiritSummary": "",
       "archivedAt": "2026-11-15T11:08:51.108Z"
+    },
+    "2026-11-18": {
+      "keywords": [
+        "\"MISERICORDIA — reconocer a Jesús en el hermano y hacer visible el amor de Dios mediante nuestras acciones.\""
+      ],
+      "comments": [
+        "Los Padres del Desierto enseñaban que para encontrar a Dios debemos aprender a mirar con atención nuestro propio corazón y descubrir su presencia en los demás. Este Evangelio nos revela algo fundamental: Dios no está solamente en la oración, en el templo o en los momentos de recogimiento; también está en el hermano que sufre y necesita de nosotros. A veces buscamos a Dios en grandes experiencias espirituales, mientras pasamos de largo ante las pequeñas necesidades de quienes tenemos cerca. Dar de comer, escuchar, acompañar, visitar o acoger son gestos que pueden parecer sencillos, pero en ellos se hace presente el amor de Dios. La espiritualidad del desierto nos invita a vencer el egoísmo, la indiferencia y el juicio, para alcanzar un corazón compasivo. No se trata únicamente de hablar del amor de Dios, sino de hacerlo visible con nuestra vida. Quizá la verdadera pregunta no sea cuánto rezamos o cuánto sabemos de Dios, sino si somos capaces de reconocer a Jesús en la persona que hoy necesita nuestra ayuda. Porque, al final, el amor que hemos recibido de Dios se hace verdadero cuando somos capaces de entregarlo a los demás.",
+        "La misericordia de Dios: Dios no quiere condenar al hombre, sino rescatarlo. Su deseo es sanar y transformar nuestro corazón. - La libertad humana: El amor de Dios no se impone ni anula nuestra libertad. Nos invita a abrirnos a su amor y dejarnos transformar. Eso es lo VITAl dejarnos transformar por su amor, pero necesitamos una palabra que nos espabile que nos haga conscientes, quizá algunas veces solo una palabra dura nos hace convertirnos, que no es lo mismo que proponerse a amar o ser bueno solo Dios cambia tu corazón de piedra por una de carne eso dice el Señor.- vivir con un corazón de piedra es vivir con la amargura y la desesperación es el llanto y rechinar de dientes, no vivimos desde esta la realidad, Nuestra responsabilidad: No basta con sentirnos amados por Dios; estamos llamados ojo llamados y capacitados  a transmitir ese amor, acogiendo, acompañando y cuidando al hermano. Mi conclusión: No quiero entender este Evangelio desde el miedo a la condena, este miedo aumenta la frustración el miedo y la mentira, y sobre todo hace de crear una espiritualidad de rentabilidad de imagen, de religiosidad, entremos en la humildad, Señor tú sabes como soy dice el publicano con la cabeza agachada, tú eres el Señor y no yo dice el buen ladrón vivir y pedir la confianza en un Dios que siempre busca, acoge y quiere rescatarnos. La conversión no nace del miedo, sino de dejarnos amar para aprender a amar."
+      ],
+      "emotionSummary": "",
+      "spiritSummary": "",
+      "archivedAt": "2026-11-23T15:50:57.936Z"
     }
   },
   "calNotes": {
@@ -1072,7 +1058,7 @@
       }
     ]
   },
-  "preguntaVital": "¿Soy capaz de reconocer a Jesús en las personas que sufren y necesitan mi ayuda? // ¿Cuántas veces paso de largo ante las necesidades de alguien porque estoy demasiado ocupado con mis propias cosas?",
+  "preguntaVital": "¿Estoy viviendo atento a la presencia de Dios o estoy tan ocupado con mis preocupaciones que me olvido de Él?\n\n\n¿Qué cosas me están adormeciendo interiormente y me impiden vivir con amor, confianza y libertad?",
   "calMonth": 8,
   "calYear": 2026,
   "asistencia": {
@@ -1145,16 +1131,16 @@
   "absences": [],
   "liturgy": {
     "gospel": {
-      "ref": "Jn 14,1-12",
-      "title": "Yo soy el camino, la verdad y la vida",
-      "text": "Jesús dijo: «No se turbe vuestro corazón. Creéis en Dios: creed también en mí. En la casa de mi Padre hay muchas moradas. Voy a prepararos un lugar. Yo soy el camino, la verdad y la vida.»"
+      "ref": "Mc 10,46-52",
+      "title": "La curación del ciego Bartimeo",
+      "text": "El ciego Bartimeo gritó: «¡Jesús, Hijo de David, ten compasión de mí!» Jesús se paró y dijo: «Llamadle.» El ciego se acercó. Jesús le preguntó: «¿Qué quieres que haga por ti?» El ciego dijo: «Rabbuni, que vea.» Jesús le dijo: «Vete, tu fe te ha salvado.»"
     },
     "psalm": {
-      "ref": "Sal 33",
-      "antiphon": "Gustad y ved qué bueno es el Señor.",
-      "text": "Bendigo al Señor en todo momento,\nsu alabanza está siempre en mi boca."
+      "ref": "Sal 62",
+      "antiphon": "Mi alma está sedienta de ti, Señor.",
+      "text": "Oh Dios, tú eres mi Dios, por ti madrugo,\nmi alma está sedienta de ti."
     },
-    "sunday": "2026-11-14T23:00:00.000Z"
+    "sunday": "2026-11-21T23:00:00.000Z"
   },
   "weekOrder": [
     "1783274652807",
